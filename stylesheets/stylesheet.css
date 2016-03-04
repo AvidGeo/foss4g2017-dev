@@ -7,14 +7,15 @@ body {
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
-.word {
-  margin-top: -26px;
+em {
   color: #b5e853;
 }
-.defintion {
-  padding-left: 40px
+.definition {
+  padding-left: 25px
 }
-
+.unorderd{
+  list-style: none;
+}
 /* General & 'Reset' Stuff */
 
 .container {
@@ -30,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
 li {
-  line-height: 1.8;
+  line-height: 1.4;
 }
 
 /* Header, <header>
