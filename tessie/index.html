@@ -33,7 +33,7 @@
 			map.addLayer(osm);
 
 			// load GeoJSON from an external file
-			$.getJSON("https://raw.githubusercontent.com/GuidoS/open/master/tessie/map.geojson", function(data) {
+			$.getJSON("http://2017.foss4g.org/tessie/map.geojson", function(data) {
 				// add GeoJSON layer to the map once the file is loaded
 				L.geoJson(data).addTo(map);
 			});
