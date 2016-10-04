@@ -43,8 +43,11 @@
 				L.geoJson(data, {
 					onEachFeature: function(feature, layer) {
 						var featureHost = feature.properties.host;
-						var popupText = "<p>Host: <a href=\"http:twitter.com/" +
-							featureHost + "\">@" + featureHost + "</a></p>";
+						var htmlFeatureHost = "Host: <a href=\"http:twitter.com/" +
+							featureHost + "\">@" + featureHost + "</a>";
+							var featureName = feature.properties.name;
+							var htmlFeatureName = " <br />Location Name: " + featureName;
+						var popupText = "<p>" + htmlFeatureHost + htmlFeatureName+ "</p>";
 						layer.bindPopup(popupText);
 					}
 				}).addTo(map);
