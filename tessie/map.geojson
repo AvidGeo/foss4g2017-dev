@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New England Aquarium",
+        "description": "FOSS4G Boston 2017 Gala Location",
+        "arrival": 20160815,
+        "host":"@guidos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0491794347763,
+          42.359209865857785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World Conference Center Bonn",
+        "description": "GOSS4G Bonn 2016",
+        "arrival": 20160824,
+        "host":"@guidos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.124185860157013,
+          50.71936629121236
+        ]
+      }
+    }
+  ]
+}
