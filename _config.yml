@@ -30,8 +30,9 @@ github: [metadata]
 
 lsi: false
 safe: true
-root: /
-source: foss4g2017-dev
+# root: /
+# source: foss4g2017-dev
+baseurl: 'foss4g2017-dev'
 incremental: false
 highlighter: rouge
 gist:
