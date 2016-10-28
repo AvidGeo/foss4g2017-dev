@@ -13,7 +13,7 @@ feed:
 
 lsi: false
 safe: true
-source:
+source: "foss4g2017-dev"
 incremental: false
 highlighter: rouge
 gist:
@@ -21,7 +21,7 @@ gist:
 
 
 github: [metadata]
-baseurl: 'foss4g2017-dev'
+baseurl: "foss4g2017-dev"
 sass:
   sass_dir: _sass
   style: compressed
