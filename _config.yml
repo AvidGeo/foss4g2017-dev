@@ -10,6 +10,17 @@ feed:
   path: atom.xml
 
 # Jekyll configuration
+
+lsi: false
+safe: true
+source:
+incremental: false
+highlighter: rouge
+gist:
+ noscript: false
+
+
+github: [metadata]
 baseurl: 'foss4g2017-dev'
 sass:
   sass_dir: _sass
@@ -17,11 +28,16 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
 highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+   - jekyll-coffeescript
+   - jekyll-paginate
 
 
 # Site owner
