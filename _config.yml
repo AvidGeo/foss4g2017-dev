@@ -10,7 +10,7 @@ feed:
   path: atom.xml
 
 # Jekyll configuration
-
+baseurl: 'foss4g2017-dev'
 sass:
   sass_dir: _sass
   style: compressed
