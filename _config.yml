@@ -5,7 +5,7 @@ description: "Free and Open Source Software for Geospatial"
 # logo: # 120x120 px default image used for Twitter summary card
 # teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-baseurl: ""
+baseurl: "foss4g2017-dev"
 url: "https://avidgeo.github.io"
 feed:
   path: atom.xml
