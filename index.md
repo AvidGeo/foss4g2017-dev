@@ -454,7 +454,7 @@ image:
 
 <div class="gen-section" id="sponsors">
   <div class="gen-section-title">
-    <h3 style="font-weight: 500;">Sponsors 1</h3>
+    <h3 style="font-weight: 500;">Sponsors</h3>
     <p style="margin-top: -12px; font-family: 'Garamond';">Thank you to our sponsors, whose support makes this conference a reality.</p>
   </div>
 
