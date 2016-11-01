@@ -1,9 +1,8 @@
 # Site navigation links
 
-- title: About FOSS4G
+- title: About
   url: /about/
   excerpt: "Everything you need to know about FOSS4G"
-  image: 400x250.png
 
 - title: Attending
   url: /attending/
