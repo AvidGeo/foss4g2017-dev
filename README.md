@@ -1,12 +1,12 @@
 # FOSS4G Boston 2017 website
 
-This project will replace the launch site for the event page. We will be using Jekyll and the Skinny bones theme
+This project is the front page of the FOSS4G Boston 2017 event. We will be using Jekyll and the Skinny bones theme
 
 
 ## dev to do
 
-- [ ] Get the template running on a dev machine
-- [ ] Update the design to more closely match our needs
+- [x] Get the template running on a dev machine
+- [x] Update the design to more closely match our needs
 
 ## content to do
 
@@ -16,3 +16,7 @@ This project will replace the launch site for the event page. We will be using J
 - [ ] sponsor
 - [ ] schedule
 - [ ] call for papers
+
+## other
+
+- [ ] what is the \_data folder and should we use it?

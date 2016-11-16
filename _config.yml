@@ -1,27 +1,45 @@
 # Site wide configuration
 
-title: "FOSS4G 2017 - Boston, MA"
+title: "FOSS4G Boston 2017"
 description: "Free and Open Source Software for Geospatial"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+# logo: # 120x120 px default image used for Twitter summary card
+# teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+
+url: https://guidos.github.io
+baseurl: /foss4g2017-dev
+
 feed:
   path: atom.xml
 
 # Jekyll configuration
-
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
+github: [metadata]
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+  input: GFM
+  hard_wrap: false
+  math_engine: mathjax
 gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-paginate
+
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+ noscript: false
+
+
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
 
 
 # Site owner
@@ -33,8 +51,8 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+    avatar:
+    disqus-shortname:
 
 
 include:
