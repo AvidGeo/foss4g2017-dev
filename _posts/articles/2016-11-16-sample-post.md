@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Our New Site is Live!"
-categories: news
+categories: articles
 modified: 2016-11-16T12:28:11-04:00
 tags: [sample]
 comments: true
