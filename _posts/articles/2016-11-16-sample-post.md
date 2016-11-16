@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Sample Post Style Guide"
+title: "Our New Site is Live!"
 categories: articles
-modified: 2016-06-01T16:28:11-04:00
+modified: 2016-11-16T12:28:11-04:00
 tags: [sample]
 comments: true
 ads: true

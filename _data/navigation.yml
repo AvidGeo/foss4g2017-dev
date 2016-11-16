@@ -1,20 +1,16 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt: "We welcome you to Boston for FOSS4G 2017"
+  image: 400x250.png
+
 - title: About
   url: /about/
   excerpt: "Everything you need to know about FOSS4G"
-
-- title: Attending
-  url: /attending/
-  excerpt: "Visiting Boston and New England"
   image: 400x250.png
 
-- title: Schedule
-  url: /schedule/
-  excerpt: "The schedule of events and papers"
-  image: 400x250.png
-
-- title: Sponsors
-  url: /#sponsors
+- title: Sponsorship
+  url: /sponsors
   excerpt: "The sponsors that make it happen"
   image: 400x250.png
