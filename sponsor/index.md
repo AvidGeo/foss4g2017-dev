@@ -9,7 +9,7 @@ image:
 share: false
 ads: false
 ---
-# A Meaningful Opportunity
+## A Meaningful Opportunity
 
 The FOSS4G Boston 2017 Sponsorship Committee has worked hard to create a full variety of sponsorship opportunities for the Boston event.  Unlike many conferences, sponsoring FOSS4G is not just about marketing, it is also a meaningful opportunity and powerful statement about giving back to the open source community. Indeed, a healthy and thriving global conference is an important part of an open source ecosystem and strong sponsor support helps ensure users, developers, and contributors can connect and interact on improving the tools we all use and rely on.
 

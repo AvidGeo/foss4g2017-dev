@@ -148,6 +148,40 @@ a {
 		background-color: rgba(255,255,255,0.90);
 	}
 }
+@media screen and (min-width: 800px) {
+	.video-wrapper {
+		@include outer-container;
+		color: #000;
+		padding-top: 0px;
+		margin-bottom: 48px;
+	}
+
+	.video-inner {
+		@include span-columns(8);
+		@include shift(2);
+		text-align: center;
+		background-color: rgba(255,255,255,0.90);
+		border-radius: 40px;
+	}
+}
+@media screen and (max-width: 799px) {
+	.video-wrapper {
+		@include outer-container;
+		margin-top: 0px;
+		margin-bottom: 12px;
+		color: #000;
+		padding-top: 0px;
+		margin-bottom: 48px;
+	}
+
+	.video-inner {
+		@include fill-parent();
+		text-align: center;
+		border-radius: 40px;
+		background-color: rgba(255,255,255,0.90);
+	}
+}
+
 @media screen and (max-width: 960px) {
 	.welcome {
 		padding-right: 0;
