@@ -6,7 +6,7 @@ description: "Free and Open Source Software for Geospatial"
 # teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 
-url: http://2017.foss4g.org
+url: http://avidgeo.github.io/foss4g2017-dev
 baseurl: /
 
 feed:
