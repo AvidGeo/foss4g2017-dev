@@ -20,3 +20,5 @@ This project is the front page of the FOSS4G Boston 2017 event. We will be using
 ## other
 
 - [ ] what is the \_data folder and should we use it?
+
+Based on the [Modernist Theme] (http://orderedlist.github.com/modernist/)
