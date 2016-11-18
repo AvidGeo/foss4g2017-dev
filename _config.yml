@@ -7,7 +7,7 @@ description: "Free and Open Source Software for Geospatial"
 locale: en
 
 url: http://2017.foss4g.org
-baseurl: /
+baseurl: 
 
 feed:
   path: atom.xml
