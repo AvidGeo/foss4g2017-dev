@@ -38,10 +38,12 @@ Participants at FOSS4G Boston 2017 are expected to act respectfully toward other
 
 #### Upcoming Milestones
 
-* Registration opens: Feb 1
-* Early bird deadline(s): June 1
-* Call for papers begins: Feb 1
-* Call for workshops begins: Dec 15
+* Registration opens: Feb 1*
+* Early bird deadline(s): June 1*
+* Call for papers begins: Feb 1*
+* Call for workshops begins: Dec 15*
+
+\* The specific dates may change, and any changes will be reflected in this web-site. Firm dates will be posted by January 6, 2017
 
 <h5 class="section-title">Follow on Twitter</h5>
-<p class="section-excerpt"><i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/foss4g" target="_blank">@foss4g</a></p> 
+<p class="section-excerpt"><i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/foss4g" target="_blank">@foss4g</a></p>
