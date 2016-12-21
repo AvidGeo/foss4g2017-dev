@@ -115,9 +115,21 @@
   }
 }
 
+.sponsor-box {
+  margin-top: 18px;
+}
+
 .sponsor-box p {
   font-family: "Garamond", serif;
   font-size: 36px;
   font-style: italic;
   margin-top: 0px;
+}
+
+.sponsor-box-platinum {
+  display: block;
+}
+
+.sponsor {
+  float: left;
 }
