@@ -588,7 +588,25 @@ div.wrap.page-lead-content h3 {
     text-align: center;
 }
 
-.cdates {
+.tbgrey2 {
+    width: 600px;
+    background-color: lightgrey;
+}
+
+.tbgrey {
     width: 400px;
     background-color: lightgrey;
+}
+
+.tbhead {
+    text-align: center;
+    font-size: 2em;
+}
+
+.floatr {
+    float: right;
+}
+
+.floatc {
+    clear:both;
 }
