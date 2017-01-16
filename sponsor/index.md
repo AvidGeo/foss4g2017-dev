@@ -24,4 +24,5 @@ The Boston Team has worked diligently to structure our program so that there are
 | Bronze | $4,000 | 1 | X | 6' Tabletop |  |  |  |  |
 | Supporter | $2,000 | 1 | X | None |  |  |  |  |
 
+
 For more information please view our [prospectus document](SponsorshipProspectus.pdf)

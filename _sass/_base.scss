@@ -384,7 +384,7 @@ th {
     font-family: $alt-font;
     font-weight: bold;
     text-align: left;
-    background-color: $table-header-color;
+    // background-color: $table-header-color;
     border-bottom: 1px solid darken($border-color, 15%);
 }
 
@@ -608,8 +608,9 @@ div.wrap.page-lead-content h3 {
 }
 
 .floatc {
-    clear:both;
+    clear: both;
 }
+
 
 #overview {
     text-align: center;
@@ -620,7 +621,7 @@ div.wrap.page-lead-content h3 {
 }
 
 #overview tr td {
-    margin: 0px;
+    margin: 0;
     padding: 5px;
     text-align: center;
     vertical-align: center;
