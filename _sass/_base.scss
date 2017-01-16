@@ -610,3 +610,50 @@ div.wrap.page-lead-content h3 {
 .floatc {
     clear:both;
 }
+
+#overview {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border-collapse: collapse;
+}
+
+#overview tr td {
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: center;
+}
+
+#overview .harvard {
+    background-color: pink;
+}
+
+#overview .district {
+    background-color: powderblue;
+}
+
+#overview .social {
+    background-color: lightsalmon;
+}
+
+#overview .seaport {
+    background-color: darkseagreen;
+}
+
+#overview .top {
+    border-top: solid black 1px;
+}
+
+#overview.left {
+    border-left: solid black 1px;
+}
+
+#overview .bottom {
+    border-bottom: solid black 1px;
+}
+
+#overview .right {
+    border-right: solid black 1px;
+}
