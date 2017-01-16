@@ -3,8 +3,14 @@
 - title: Home
   url: /
 
+- title: Register
+  url: /register/
+
+- title: Program
+  url: /program/
+
+- title: Sponsor
+  url: /sponsor/
+
 - title: About
   url: /about/
-
-- title: Sponsorship
-  url: /sponsor/
