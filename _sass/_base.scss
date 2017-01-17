@@ -615,6 +615,31 @@ div.wrap.page-lead-content h3 {
     clear: both;
 }
 
+strong {
+    font-family: "Open Sans Bold",Helvetica,Arial,Sans-Serif;
+    font-weight: bold;
+}
+
+.nbull {
+    list-style-type: none;
+}
+
+.harvard {
+    background-color: pink;
+}
+
+.district {
+    background-color: powderblue;
+}
+
+.social {
+    background-color: lightsalmon;
+}
+
+.seaport {
+    background-color: darkseagreen;
+}
+
 #overview {
     text-align: center;
     padding: 0;
@@ -628,22 +653,6 @@ div.wrap.page-lead-content h3 {
     padding: 5px;
     text-align: center;
     vertical-align: center;
-}
-
-#overview .harvard {
-    background-color: pink;
-}
-
-#overview .district {
-    background-color: powderblue;
-}
-
-#overview .social {
-    background-color: lightsalmon;
-}
-
-#overview .seaport {
-    background-color: darkseagreen;
 }
 
 #overview .top {

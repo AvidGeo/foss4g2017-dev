@@ -26,3 +26,5 @@ The Boston Team has worked diligently to structure our program so that there are
 
 
 For more information please view our [prospectus document](SponsorshipProspectus.pdf)
+
+If you have any questions about our sponsorship offerings please email our [Sponsorship Team](mailto:foss4g2017@gmail.com). We  want to make sure all your questions are answered and we’d be pleased to converse by email or setup a meeting with you.
