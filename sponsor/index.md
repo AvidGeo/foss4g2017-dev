@@ -3,7 +3,7 @@ layout: topic
 title: Sponsor
 excerpt:
 image:
-  feature: boston-map-2.png
+  feature: boston-map.gif
   teaser:
   thumb:
 share: false

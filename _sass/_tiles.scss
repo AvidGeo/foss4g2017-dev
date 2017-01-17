@@ -139,9 +139,10 @@
 
 .sponsor-head {
     font-weight: lighter;
+    margin-bottom: 0px;
 }
 
-.rect3 {
+.sponsor-gold {
     width: 300px;
     height: 200px;
     background: white;
@@ -150,7 +151,16 @@
     line-height: 200px;
 }
 
-.square1 {
+.sponsor-silver {
+    width: 300px;
+    height: 200px;
+    background: white;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 200px;
+}
+
+.sponsor-bronze {
     width: 150px;
     height: 150px;
     background: white;
@@ -159,12 +169,19 @@
     line-height: 150px;
 }
 
+.sponsor-partner {
+    width: 150px;
+    height: 150px;
+    background: white;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 150px;
+}
 
 .sponsor {
     display: inline-block;
     margin: 10px;
 }
-
 
 .sponsor-supporter {
     display: inline-block;

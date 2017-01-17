@@ -598,6 +598,10 @@ div.wrap.page-lead-content h3 {
     background-color: lightgrey;
 }
 
+.tbgrey td {
+    border: none;
+}
+
 .tbhead {
     text-align: center;
     font-size: 2em;
@@ -610,7 +614,6 @@ div.wrap.page-lead-content h3 {
 .floatc {
     clear: both;
 }
-
 
 #overview {
     text-align: center;
@@ -647,7 +650,7 @@ div.wrap.page-lead-content h3 {
     border-top: solid black 1px;
 }
 
-#overview.left {
+#overview .left {
     border-left: solid black 1px;
 }
 

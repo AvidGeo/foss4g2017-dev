@@ -1,13 +1,8 @@
 ---
 layout: about
 title: About
-excerpt: null
 image:
-  feature: boston-map-2.png
-  teaser: null
-  thumb: null
-share: false
-ads: false
+  feature: boston-map.gif
 ---
 
 ### What is FOSS4G?
