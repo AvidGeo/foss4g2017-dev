@@ -2,7 +2,7 @@
 layout: about
 title: About
 image:
-  feature: boston-map.gif
+  feature: boston-map.png
 ---
 
 ### What is FOSS4G?
