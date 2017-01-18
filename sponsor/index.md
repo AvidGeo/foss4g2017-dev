@@ -1,19 +1,14 @@
 ---
 layout: topic
 title: Sponsor
-excerpt:
 image:
   feature: boston-map.png
-  teaser:
-  thumb:
-share: false
-ads: false
 ---
 ## A Meaningful Opportunity
 
-The FOSS4G Boston 2017 Sponsorship Committee has worked hard to create a full variety of sponsorship opportunities for the Boston event.  Unlike many conferences, sponsoring FOSS4G is not just about marketing, it is also a meaningful opportunity and powerful statement about giving back to the open source community. Indeed, a healthy and thriving global conference is an important part of an open source ecosystem and strong sponsor support helps ensure users, developers, and contributors can connect and interact on improving the tools we all use and rely on.
+The FOSS4G Boston 2017 Sponsorship Committee has created a variety of sponsorship opportunities for the Boston event. Sponsoring FOSS4G, unlike other conferences, is not just about marketing - it is also a meaningful opportunity to give back and a powerful statement about your organization’s role in the open source community. A healthy global conference is an important part of the geospatial open source ecosystem and strong sponsor support helps ensure users, developers, and contributors can connect and interact on improving the tools we all rely on.
 
-The Boston Team has worked diligently to structure our program so that there are standard packages at the Supporter, Bronze and Silver levels. We have also structured our higher tiers – Diamond, Platinum and Gold – to include  a variety of  à la carte benefits so that your investment in FOSS4G Boston 2017 best meets your specific objectives for the conference.
+The Boston Team is offering standard sponsor packages at the Supporter, Bronze and Silver levels. Our higher tiers – Diamond, Platinum and Gold – also include a variety of à la carte and customized benefits so that your investment in FOSS4G Boston 2017 can best meet your specific objectives for the conference. 
 
 | Level | Cost | Included registrations | Web-site promotion & signage | Booth | Co-located event| Named meal | Named social | T-shirt sleeve |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
