@@ -1,13 +1,8 @@
 ---
 layout: about
 title: About
-excerpt: null
 image:
-  feature: boston-map-2.png
-  teaser: null
-  thumb: null
-share: false
-ads: false
+  feature: boston-map.gif
 ---
 
 ### What is FOSS4G?
@@ -40,7 +35,7 @@ Participants at FOSS4G Boston 2017 are expected to act respectfully toward other
 
 * Call for workshops begins: Dec 15*
 * Registration opens: Feb 1*
-* Call for papers begins: Feb 1*
+* Call for presentations begins: Feb 1*
 * Early bird registration deadline(s): June 1*
 
 \* The specific dates may change, and any changes will be reflected in this web-site. Firm dates will be posted by January 6, 2017

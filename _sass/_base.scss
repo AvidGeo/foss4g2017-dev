@@ -598,6 +598,10 @@ div.wrap.page-lead-content h3 {
     background-color: lightgrey;
 }
 
+.tbgrey td {
+    border: none;
+}
+
 .tbhead {
     text-align: center;
     font-size: 2em;
@@ -611,6 +615,30 @@ div.wrap.page-lead-content h3 {
     clear: both;
 }
 
+strong {
+    font-family: "Open Sans Bold",Helvetica,Arial,Sans-Serif;
+    font-weight: bold;
+}
+
+.nbull {
+    list-style-type: none;
+}
+
+.harvard {
+    background-color: pink;
+}
+
+.district {
+    background-color: powderblue;
+}
+
+.social {
+    background-color: lightsalmon;
+}
+
+.seaport {
+    background-color: darkseagreen;
+}
 
 #overview {
     text-align: center;
@@ -627,27 +655,11 @@ div.wrap.page-lead-content h3 {
     vertical-align: center;
 }
 
-#overview .harvard {
-    background-color: pink;
-}
-
-#overview .district {
-    background-color: powderblue;
-}
-
-#overview .social {
-    background-color: lightsalmon;
-}
-
-#overview .seaport {
-    background-color: darkseagreen;
-}
-
 #overview .top {
     border-top: solid black 1px;
 }
 
-#overview.left {
+#overview .left {
     border-left: solid black 1px;
 }
 
