@@ -596,15 +596,18 @@ div.wrap.page-lead-content h3 {
 .tbgrey {
     width: 400px;
     background-color: lightgrey;
+    border-spacing: 10px;
+    border-collapse: separate;
 }
 
 .tbgrey td {
-    border: none;
+    border-bottom: 5px lightgrey solid;
 }
 
 .tbhead {
     text-align: center;
     font-size: 2em;
+    padding-bottom: 0;
 }
 
 .floatr {
@@ -613,6 +616,11 @@ div.wrap.page-lead-content h3 {
 
 .floatc {
     clear: both;
+}
+
+.bright {
+    border-right: 1px solid black;
+    width: 100px;
 }
 
 strong {
