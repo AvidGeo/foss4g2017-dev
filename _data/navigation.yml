@@ -1,31 +1,31 @@
-# # Site navigation links
-#
-# - title: Home
-#   url: /
-#   excerpt: "We welcome you to Boston for FOSS4G 2017"
-#   image: 400x250.png
-#
-# - title: Call For presentations
-#   url: /call-for-presentations/
-#   excerpt: "The importance of answering this call"
-#   image: 400x250.png
-#
-# - title: Register
-#   url: /register/
-#   excerpt: "Coming Soon"
-#   image: 400x250.png
-#
-# - title: Program
-#   url: /program/
-#   excerpt: "Coming Soon"
-#   image: 400x250.png
-#
-# - title: Sponsorship
-#   url: /sponsor/
-#   excerpt: "The sponsors that make it happen"
-#   image: 400x250.png
-#
-# - title: About
-#   url: /about/
-#   excerpt: "Everything you need to know about FOSS4G"
-#   image: 400x250.png
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt: "We welcome you to Boston for FOSS4G 2017"
+  image: 400x250.png
+
+- title: Call For presentations
+  url: /call-for-presentations/
+  excerpt: "The importance of answering this call"
+  image: 400x250.png
+
+- title: Register
+  url: /register/
+  excerpt: "Coming Soon"
+  image: 400x250.png
+
+- title: Program
+  url: /program/
+  excerpt: "Coming Soon"
+  image: 400x250.png
+
+- title: Sponsorship
+  url: /sponsor/
+  excerpt: "The sponsors that make it happen"
+  image: 400x250.png
+
+- title: About
+  url: /about/
+  excerpt: "Everything you need to know about FOSS4G"
+  image: 400x250.png
