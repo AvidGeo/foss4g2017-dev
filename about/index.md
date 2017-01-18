@@ -31,13 +31,6 @@ Participants at FOSS4G Boston 2017 are expected to act respectfully toward other
 * Aug. 16-18: Main Conference
 * Aug. 19: Code Sprint
 
-#### Upcoming Milestones
-
-* Call for workshops begins: Dec 15*
-* Registration opens: Feb 1*
-* Call for presentations begins: Feb 1*
-* Early bird registration deadline(s): June 1*
-
 \* The specific dates may change, and any changes will be reflected in this web-site. Firm dates will be posted by January 6, 2017
 
 <h5 class="section-title">Follow on Twitter</h5>
