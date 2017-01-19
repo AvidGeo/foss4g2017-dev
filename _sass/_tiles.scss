@@ -169,38 +169,26 @@
     line-height: 150px;
 }
 
-.sponsor-partner {
-    width: 150px;
-    height: 150px;
-    background: white;
-    vertical-align: middle;
-    text-align: center;
-    line-height: 150px;
+.sponsor-supporter {
+  width: 80px;
+  height: 80px;
+  background: white;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 80px;
 }
+
+.sponsor-partner {
+  width: 150px;
+  height: 150px;
+  background: white;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 150px;
+}
+
 
 .sponsor {
     display: inline-block;
     margin: 10px;
-}
-
-.sponsor-supporter {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
-.sponsor-supporter ul {
-    list-style-type: none;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    // border: black 1px solid;
-}
-
-.sponsor-supporter li a {
-    color: black;
-    text-align: center;
-    margin: 0;
-    padding: 0;
 }
