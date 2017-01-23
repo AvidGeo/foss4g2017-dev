@@ -10,13 +10,15 @@ share: false
 ads: false
 ---
 
-<strong>Call for workshop instructors and content is open!</strong>
-
-[Click Here to Submit a Proposal for a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3)
-
-#### Conference Workshops - August 14-15
+### Conference Workshops - August 14-15
 
 ##### Harvard University, Cambridge, MA, USA
+
+<strong>Call for workshop instructors and content is open!</strong>
+
+[Workshop Submission Form](https://goo.gl/forms/K11bcwa5xkpmYAsA3)
+
+<em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
 
 Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS. This year we are excited to introduce a Maptime track, focused on introductory skills and tutorials, and will be featuring <strong>workshops at a wide variety of skill levels</strong>.
 
@@ -72,14 +74,14 @@ The workshops committee will review each submission and select those with the hi
 #### Presenter Compensation
 Workshop presenters will be compensated with a single payment of $650, for each 4 hour block of workshops that are given. This compensation is equivalent to the cost of an Early Bird registration. Compensation is limited to one payment per workshop, i.e., if there are multiple presenters the compensation will remain one payment of $650.
 
-[Click Here to Submit a Proposal for a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3)
-
 #### Important Dates
 
 Event | Date
 ----- | ----
-Call for Workshops Announced | January 21, 2017.
-Call for Workshops Closed | March 13, 2017.
-Workshop Selections Announced | March 20, 2017.
-Detailed Workshop Program | April 3, 2017.
-Workshops Take Place at Harvard | August 14/15, 2017.
+Call for Workshops Announced | January 21, 2017
+Call for Workshops Closed | March 13, 2017
+Workshop Selections Announced | March 20, 2017
+Detailed Workshop Program | April 3, 2017
+Workshops Take Place at Harvard | August 14/15, 2017
+
+[Workshop Submission Form](https://goo.gl/forms/K11bcwa5xkpmYAsA3)
