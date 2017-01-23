@@ -16,7 +16,7 @@ ads: false
 
 <strong>Call for workshop instructors and content is open!</strong>
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Workshop Submission Form - Submit a Workshop NOW ]</a>
+<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Submit a Workshop NOW ]</a>
 
 <em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
 
@@ -84,4 +84,4 @@ Workshop Selections Announced | March 20, 2017
 Detailed Workshop Program | April 3, 2017
 Workshops Take Place at Harvard | August 14/15, 2017
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Workshop Submission Form - Submit a Workshop NOW ]</a>
+<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Submit a Workshop NOW ]</a>
