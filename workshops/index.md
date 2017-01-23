@@ -16,7 +16,8 @@ ads: false
 
 <strong>Call for workshop instructors and content is open!</strong>
 
-[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Learn more about submitting a presentation](../call-for-presentations/){: .btn}
 
 <em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
 
@@ -56,7 +57,8 @@ We are open minded to additional topics that are relevant to the FOSS4G communit
 
 If you have interest in leading a workshop, we encourage you to submit a proposal. Submissions will be accepted until Monday, March 13, 2017, and can be submitted at the following link:
 
-[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Learn more about submitting a presentation](../call-for-presentations/){: .btn}
 
 Workshop proposals should contain the following information:
 
@@ -84,4 +86,5 @@ Workshop Selections Announced | March 20, 2017
 Detailed Workshop Program | April 3, 2017
 Workshops Take Place at Harvard | August 14/15, 2017
 
-[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Learn more about submitting a presentation](../call-for-presentations/){: .btn}
