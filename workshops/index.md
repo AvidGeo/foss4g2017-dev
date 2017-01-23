@@ -3,7 +3,7 @@ layout: topic
 title: "Workshops"
 excerpt: "Workshops"
 image:
-  feature: boston-map-2.png
+  feature: boston-map.png
   teaser:
   thumb:
 share: false
