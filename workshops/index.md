@@ -16,7 +16,7 @@ ads: false
 
 <strong>Call for workshop instructors and content is open!</strong>
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Submit a Workshop NOW ]</a>
+[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
 
 <em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
 
@@ -56,16 +56,16 @@ We are open minded to additional topics that are relevant to the FOSS4G communit
 
 If you have interest in leading a workshop, we encourage you to submit a proposal. Submissions will be accepted until Monday, March 13, 2017, and can be submitted at the following link:
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Workshop Submission Form - Submit a Workshop NOW ]</a>
+[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
 
 Workshop proposals should contain the following information:
 
 <ol>
-	<li>Title summarizing the tutorial goals or workshop theme</li>
-	<li>Name and affiliations of the organizers</li>
-	<li>Primary contact information for correspondence</li>
-	<li>Maximum 250 abstract containing description about the relevance, motivation and goals of the workshop, as well as pointers to past editions, if any.</li>
-	<li>Length of workshop, including if it is a half- or full-day workshop</li>
+  <li>Title summarizing the tutorial goals or workshop theme</li>
+  <li>Name and affiliations of the organizers</li>
+  <li>Primary contact information for correspondence</li>
+  <li>Maximum 250 abstract containing description about the relevance, motivation and goals of the workshop, as well as pointers to past editions, if any.</li>
+  <li>Length of workshop, including if it is a half- or full-day workshop</li>
 </ol>
 
 #### Workshop Proposal Review
@@ -84,4 +84,4 @@ Workshop Selections Announced | March 20, 2017
 Detailed Workshop Program | April 3, 2017
 Workshops Take Place at Harvard | August 14/15, 2017
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" style="color: red;">[ Submit a Workshop NOW ]</a>
+[Submit a Workshop NOW](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
