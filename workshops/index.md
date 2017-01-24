@@ -10,7 +10,7 @@ share: false
 ads: false
 ---
 
-### Conference Workshops - August 14-15
+### Conference Workshops - August 14-15, 2017
 
 ##### Harvard University, Cambridge, MA, USA
 
