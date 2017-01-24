@@ -16,9 +16,11 @@ ads: false
 
 <strong>Call for workshop instructors and content is open!</strong>
 
-[Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Click Here to Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
 
 <em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
+
+#### FOSS4G 2017 Conference Workshops
 
 Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS. This year we are excited to introduce a Maptime track, focused on introductory skills and tutorials, and will be featuring <strong>workshops at a wide variety of skill levels</strong>.
 
@@ -84,4 +86,7 @@ Workshop Selections Announced | March 20, 2017
 Detailed Workshop Program | April 3, 2017
 Workshops Take Place at Harvard | August 14/15, 2017
 
-[Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+[Click Here to Submit a Workshop](https://goo.gl/forms/K11bcwa5xkpmYAsA3){: .btn}
+
+<em>To submit a presentation for the main conference program, please visit the <a href="../call-for-presentations">Call for Presentations</a> page.</em>
+
