@@ -5,6 +5,7 @@ image:
   feature: boston-map.png
 ---
 ## A Meaningful Opportunity
+[Click here to become a sponsor](http://www.cvent.com/d/pvqgr8/4W){: .btn}
 
 The FOSS4G Boston 2017 Sponsorship Committee has created a variety of sponsorship opportunities for the Boston event. Sponsoring FOSS4G, unlike other conferences, is not just about marketing - it is also a meaningful opportunity to give back and a powerful statement about your organization’s role in the open source community. A healthy global conference is an important part of the geospatial open source ecosystem and strong sponsor support helps ensure users, developers, and contributors can connect and interact on improving the tools we all rely on.
 
@@ -23,3 +24,5 @@ The Boston Team is offering standard sponsor packages at the Supporter, Bronze a
 For more information please view our [prospectus document](SponsorshipProspectus.pdf)
 
 If you have any questions about our sponsorship offerings please email our [Sponsorship Team](mailto:foss4g2017@gmail.com). We  want to make sure all your questions are answered and we’d be pleased to converse by email or setup a meeting with you.
+
+[Click here to become a sponsor](http://www.cvent.com/d/pvqgr8/4W){: .btn}
