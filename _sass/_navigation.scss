@@ -1,4 +1,5 @@
-li a, .dropbtn {
+.dropbtn,
+li a {
     display: inline-block;
     color: white;
     text-align: center;
@@ -6,7 +7,8 @@ li a, .dropbtn {
     text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+.dropdown:hover .dropbtn,
+li a:hover {
     background-color: #d3d3d3;
 }
 
@@ -19,7 +21,7 @@ li.dropdown {
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     z-index: 9999;
 }
 
@@ -47,14 +49,12 @@ li.dropdown {
 }
 
 #top-nav a {
-    padding-left: 16px;
-    padding-right: 16px;
-    margin-right: 0px;
+    // padding-left: 10px;
+    // padding-right: 10px;
+    width: 100%;
 }
 
-a.dropbtn {
-    
-}
+a.dropbtn {}
 
 .left {
     text-align: left;
