@@ -20,6 +20,11 @@
   excerpt: "Coming Soon"
   image: 400x250.png
 
+- title: Attending
+  url: /attending/
+  excerpt: "Learn more about location and venue"
+  image: 400x250.png
+
 - title: Sponsor
   url: /sponsor/
   excerpt: "Learn about how to sponsor this event"
