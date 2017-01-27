@@ -16,4 +16,6 @@ The conference will be held at the [Seaport Hotel & World Trade Center](http://w
 
 # Lodging
 
-A room block has been reserved for event participants at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com). The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full. To make reservations in the room block [CLICK HERE](http://reservations.travelclick.com/131437?groupID=1616128).
+A room block has been reserved for event participants at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com). The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
+
+[Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn}
