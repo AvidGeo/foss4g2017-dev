@@ -1,13 +1,18 @@
 ---
-layout: default-topic
+layout: topic
 title: Attending
 image:
   feature: boston-map.png
 ---
 
+![Workshops](../images/venue_wtc.jpg "Seaport World Trade Center")
+
 # Location
 
 The conference will be held at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com) in the Boston [Seaport District](https://www.bostonusa.com/about-boston/boston-neighborhoods/seaport-district). Workshops will be hosted by [The Center for Geographic Analysis at Harvard University](http://gis.harvard.edu/) in neighboring Cambridge, MA.
+
+![Workshops](../images/venue_hotel.jpg "Seaport Hotel")
+
 
 # Lodging
 
