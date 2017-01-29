@@ -679,3 +679,64 @@ strong {
 #overview .right {
     border-right: solid black 1px;
 }
+
+.cost_table {
+    border-spacing: 0;
+    padding: 10px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.cost_early {
+    background-color: #fff2cc;
+}
+
+.cost_full {
+    background-color: #d9d2e9;
+}
+
+.cost_main {
+    background-color: #d9ead3;
+}
+
+.cost_optional {
+    background-color: #a4c2f4;
+}
+
+.cost_grey {
+    background-color: #efefef;
+}
+
+.cost_acb {
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.cost_pt {
+    padding: 10px 10px 5px;
+}
+
+.cost_p5 {
+    padding: 5px;
+}
+
+.cost_bbl {
+    border-bottom: black solid 1px;
+    border-left: black solid 1px;
+}
+
+.cost_bb {
+    border-bottom: black solid 1px;
+}
+
+.cost_br {
+    border-right: black solid 1px;
+}
+
+.cost_bl {
+    border-left: black solid 1px;
+}
+
+.cost_bt {
+    border-top: black solid 1px;
+}
