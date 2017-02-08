@@ -170,25 +170,29 @@
 }
 
 .sponsor-supporter {
-  width: 80px;
-  height: 80px;
-  background: white;
-  vertical-align: middle;
-  text-align: center;
-  line-height: 80px;
+    width: 80px;
+    height: 80px;
+    background: white;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 80px;
 }
 
 .sponsor-partner {
-  width: 150px;
-  height: 150px;
-  background: white;
-  vertical-align: middle;
-  text-align: center;
-  line-height: 150px;
+    width: 150px;
+    height: 150px;
+    background: white;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 150px;
 }
-
 
 .sponsor {
     display: inline-block;
     margin: 10px;
+}
+
+.logo {
+    max-width: 175px;
+    padding: 10px;
 }
