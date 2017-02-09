@@ -804,12 +804,12 @@ strong {
 /* Add Animation */
 @-webkit-keyframes slideIn {
     from {bottom: -300px; opacity: 0} 
-    to {bottom: 1000; opacity: 1}
+    to {bottom: 1000px; opacity: 1}
 }
 
 @keyframes slideIn {
     from {bottom: -300px; opacity: 0}
-    to {bottom: 1000; opacity: 1}
+    to {bottom: 1000px; opacity: 1}
 }
 
 @-webkit-keyframes fadeIn {
