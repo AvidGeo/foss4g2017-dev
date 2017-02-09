@@ -6,4 +6,4 @@ Based on the [Modernist Theme] (http://orderedlist.github.com/modernist/)
 
 #CONTRIBUTING
 
-Please read the CONTRIBUTING.md guidelines documenation
+Please read the CONTRIBUTING.md guidelines documenation 
