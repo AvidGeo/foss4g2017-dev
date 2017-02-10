@@ -109,7 +109,7 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Lawn on D](https://signatureboston.com/lawn-on-d)
 
-[Boston Harbor Cruises](https://signatureboston.com/lawn-on-d)
+[Boston Harbor Cruises](http://www.bostonharborcruises.com/)
 
 ### Outdoor recreation:
 
