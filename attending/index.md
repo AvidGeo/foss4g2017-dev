@@ -235,11 +235,15 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 ### Food 
 
+![Workshops](../images/visiting_boston/north_end_mikes_pastry_2.jpg "North End pastries")
+
+![Workshops](../images/visiting_boston/oyster_bar.jpg "Seafood")
+
 [Boston Public Market](https://bostonpublicmarket.org/)
 
 ![Workshops](../images/visiting_boston/boston_public_market_4.jpg "Boston Public Market")
 
 ![Workshops](../images/visiting_boston/boston_public_market_cheese_1.jpg "Boston Public Market cheese")
 
-![Workshops](../images/visiting_boston/north_end_mikes_pastry_2.jpg "North End pastries")
+
 
