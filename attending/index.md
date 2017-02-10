@@ -115,11 +115,11 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Charles River Canoe and Kayak](http://www.paddleboston.com/main.php)
 
-[Lawn on D](https://signatureboston.com/lawn-on-d)
-
 ![Workshops](../images/visiting_boston/charles_river_kayaks_1.jpg "Charles River kayaks")
 
 ![Workshops](../images/visiting_boston/charles_river_stand_up_paddleboards.jpg "Charles River stand up paddleboards")
+
+[Lawn on D](https://signatureboston.com/lawn-on-d)
 
 [Boston Common](http://friendsofthepublicgarden.org/our-parks/boston-common/)
 
