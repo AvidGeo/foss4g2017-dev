@@ -201,7 +201,7 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Quincy Market](https://en.wikipedia.org/wiki/Quincy_Market)
 
-![Workshops](../images/visiting_boston/tea_party_museum.jpg "Quincy Market")
+![Workshops](../images/visiting_boston/quincy_market_1.jpg "Quincy Market")
 
 [Faneuil Hall](http://www.faneuilhall.com/)
 
