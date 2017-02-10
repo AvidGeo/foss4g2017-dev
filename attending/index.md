@@ -55,7 +55,7 @@ Boston is a dynamic city with a million things to do!  Here are some tips and su
 
 ![Workshops](../images/visiting_boston/harbor_tour_37.jpg "Boston from the harbor")
 
-![Workshops](../images/visiting_boston/neaq_collage.jpg "Boston from the Charles River")
+![Workshops](../images/visiting_boston/charles_river_from_kendall_duck_boat_1.jpg "Boston from the Charles River")
 
 ### Getting around:
 
