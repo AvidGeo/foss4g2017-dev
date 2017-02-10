@@ -78,7 +78,11 @@ City of Boston’s [Getting Around Boston](https://www.boston.gov/getting-around
 
 ![Workshops](../images/visiting_boston/biker.jpg "Bicyclist on path")
 
-### [Harvard Square](http://www.harvardsquare.com/) and [Harvard University](http://www.harvard.edu/on-campus/visit-harvard) (site of workshops)
+### Harvard Square and Harvard University (site of workshops)
+
+[Harvard Square](http://www.harvardsquare.com/)
+
+[Harvard University](http://www.harvard.edu/on-campus/visit-harvard)
 
 ![Workshops](../images/visiting_boston/harvard_sq_news.jpg "Harvard Square")
 
