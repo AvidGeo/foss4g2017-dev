@@ -155,7 +155,7 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Museum of Fine Arts](http://www.mfa.org/)
 
-![Workshops](https://upload.wikimedia.org/wikipedia/commons/b/b4/Mfa_boston_af.jpg "Museum of Fine Arts")
+![Workshops](../images/visiting_boston/mfa.jpg "Museum of Fine Arts")
 
 [Boston Public Library](http://www.bpl.org/)
 
