@@ -46,11 +46,17 @@ The Gala will take place Thursday, August 17th at the [New England Aquarium](htt
 Boston is a dynamic city with a million things to do!  Here are some tips and suggestions for visiting Boston! 
 
 [Boston, Cambridge and New England slideshow from the Boston Location Organizing Committee](https://photos.google.com/share/AF1QipO1BxZpRm8RRQRYjT91hzWUCYv1TT6qx_aJBumEZuyygkcqd4TpSEyj19IBd_z6gQ?key=RS1VTDB4Q2E3TTBYREdBQzJMbGt5S1dsU1lVQ0V3)
+
 [Boston Convention and Visitors Bureau Guide](https://www.bostonusa.com/)
+
 [City of Boston’s Things to Do Around Boston](https://www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston)
+
 [Wikitravel Boston Page](http://wikitravel.org/en/Boston)
+
 [TripAdvisor First-time Boston Visitor Page](https://www.tripadvisor.com/Travel-g60745-s409/Boston:Massachusetts:First.Time.Visitors.html)
+
 [Google Boston Travel Guide](https://www.google.com/destination?q=boston+historic+sites&safe=active&espv=2&site=search&output=search&dest_mid=/m/01cx_&sa=X&ved=0ahUKEwiPy77svbjRAhVM7iYKHf1WAW8Qri4IoAIwDw)
+
 [4 Minute Drone Video Over Boston](https://www.youtube.com/watch?v=LrNfgCPT7Vk)
 
 ![Workshops](../images/visiting_boston/harbor_tour_37.jpg "Boston from the harbor")
