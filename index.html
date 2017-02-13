@@ -252,7 +252,7 @@ image:
             <br />
             <h2 class="speaker-name">Paul Ramsey</h2>
             <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Solutions Architect<br /><strong>CARTO</strong></p>
-            <button id="myBtn">Open Modal</button>
+            <a class="btn btn-primary js-modal-trigger" data-modal="lil-bit-content">Show me the modal with a teenie bit of content!</a>
         </div>
     </div>
     <div class="speaker-box">
@@ -299,25 +299,20 @@ image:
         <p class="section-excerpt"><i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://facebook.com/foss4g2017" target="_blank">facebook.com/foss4g2017</a></p>      
     </div>
 </div>
-<!-- The Modal -->
-<div id="myModal" class="modal">
+<div class="modal-overlay"></div>
 
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">&times;</span>
-      <h2>Modal Header</h2>
-    </div>
+
+<section id="lil-bit-content" class="modal">
+    <header class="modal-header">
+      <h1>I am a modal</h1>
+    </header>
     <div class="modal-body">
-      <p>Some text in the Modal Body</p>
-      <p>Some other text...</p>
-    </div>
-    <div class="modal-footer">
-      <h3>Modal Footer</h3>
-    </div>
-  </div>
-
-</div>
+     <p>Cupcake ipsum dolor sit amet icing unerdwear.com topping.</p>
+   </div>
+  <footer class="modal-footer">
+    <a class="btn btn-primary js-close-modal-trigger">Close Modal</a>
+  </footer>
+</section>
 <div class="gen-section">
     <a name='sponsors'></a>
     <div><img src='images/waves.svg'></div>
