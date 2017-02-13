@@ -762,7 +762,7 @@ strong {
 
 /* Modal Content */
 .modal-content {
-    position: relative;
+    position: fixed;
     bottom: 0; /* set to window */
     background-color: #fefefe;
     width: 100%;
