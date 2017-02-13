@@ -762,8 +762,8 @@ strong {
 
 /* Modal Content */
 .modal-content {
-    position: fixed;
-    bottom: 0;
+    position: relative;
+    bottom: 0; /* set to window */
     background-color: #fefefe;
     width: 100%;
     -webkit-animation-name: slideIn;
