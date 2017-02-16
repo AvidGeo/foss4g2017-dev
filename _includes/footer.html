@@ -151,21 +151,4 @@
           ga('create', 'UA-74150815-1', 'auto');
           ga('send', 'pageview');
         </script>
-        <script>
-(function() {
-  $(function() {
-    $(document).on('click', '.js-modal-trigger', function(e) {
-      var $this, whichModal;
-      $this = $(this);
-      whichModal = $this.attr("data-modal");
-      $(".modal-overlay").addClass("modal-is-visible");
-      return $("#" + whichModal).addClass("modal-is-visible");
-    });
-    return $(document).on('click', '.js-close-modal-trigger', function(e) {
-      $(".modal-overlay").removeClass("modal-is-visible");
-      return $(".modal").removeClass("modal-is-visible");
-    });
-  });
 
-}).call(this);
-        </script>
