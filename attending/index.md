@@ -152,7 +152,7 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 [Institute of Contemporary Art](https://www.icaboston.org/)
 
 ![Workshops](../images/visiting_boston/ica.jpg "Institute of Contemporary Art")
-By Smart Destinations from Boston, USA [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons
+By Smart Destinations from Boston, USA](http://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
 
 [Museum of Fine Arts](http://www.mfa.org/)
 
