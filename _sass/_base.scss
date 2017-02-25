@@ -91,9 +91,8 @@ a {
 .welcome {
     text-align: center;
     padding-top: 20px;
-    padding-right: 120px;
-    padding-left: 120px;
     font-family: "Open Sans",Helvetica,Arial,Sans-Serif;
+    margin: 0 auto;
 }
 
 .welcome h4 {
@@ -120,7 +119,7 @@ a {
     font-size: 21px;
     line-height: 1.25;
 }
-@media screen and (min-width: 463px) {
+@media screen and (min-width: 800px) {
     .feature-wrapper {
         @include outer-container;
         color: #000;
@@ -132,9 +131,10 @@ a {
         text-align: center;
         background-color: rgba(255,255,255,0.90);
         border-radius: 40px;
+        margin-left: 0px;
     }
 }
-@media screen and (max-width: 463px) {
+@media screen and (max-width: 800px) {
     .feature-wrapper {
         @include outer-container;
         margin-top: 20px;
@@ -798,3 +798,30 @@ strong {
 }
 
 .close:hover { background: #bc1f40; }
+
+#welcome-table {
+    text-align: left;
+    margin-right: 12px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    display: inline-block;
+    width: auto;
+}
+
+#welcome-table td {
+    padding: 2px;
+}
+
+#welcome-table th {
+    padding: 2px;
+}
+
+#welcome-table .second-col {
+    padding-left: 12px;
+}
+
+td a {
+    text-decoration: none;
+}
+
