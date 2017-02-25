@@ -45,17 +45,23 @@ The Gala will take place Thursday, August 17th at the [New England Aquarium](htt
 
 Boston is a dynamic city with a million things to do!  Here are some tips and suggestions for visiting Boston! 
 
-* [Boston, Cambridge and New England slideshow from the Boston Location Organizing Committee](https://photos.google.com/share/AF1QipO1BxZpRm8RRQRYjT91hzWUCYv1TT6qx_aJBumEZuyygkcqd4TpSEyj19IBd_z6gQ?key=RS1VTDB4Q2E3TTBYREdBQzJMbGt5S1dsU1lVQ0V3)
-* [Boston Convention and Visitors Bureau Guide](https://www.bostonusa.com/)
-* [City of Boston’s Things to Do Around Boston](https://www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston)
-* [Wikitravel Boston Page](http://wikitravel.org/en/Boston)
-* [TripAdvisor First-time Boston Visitor Page](https://www.tripadvisor.com/Travel-g60745-s409/Boston:Massachusetts:First.Time.Visitors.html)
-* [Google Boston Travel Guide](https://www.google.com/destination?q=boston+historic+sites&safe=active&espv=2&site=search&output=search&dest_mid=/m/01cx_&sa=X&ved=0ahUKEwiPy77svbjRAhVM7iYKHf1WAW8Qri4IoAIwDw)
-* [4 Minute Drone Video Over Boston](https://www.youtube.com/watch?v=LrNfgCPT7Vk)
+[Boston, Cambridge and New England slideshow from the Boston Location Organizing Committee](https://photos.google.com/share/AF1QipO1BxZpRm8RRQRYjT91hzWUCYv1TT6qx_aJBumEZuyygkcqd4TpSEyj19IBd_z6gQ?key=RS1VTDB4Q2E3TTBYREdBQzJMbGt5S1dsU1lVQ0V3)
+
+[Boston Convention and Visitors Bureau Guide](https://www.bostonusa.com/)
+
+[City of Boston’s Things to Do Around Boston](https://www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston)
+
+[Wikitravel Boston Page](http://wikitravel.org/en/Boston)
+
+[TripAdvisor First-time Boston Visitor Page](https://www.tripadvisor.com/Travel-g60745-s409/Boston:Massachusetts:First.Time.Visitors.html)
+
+[Google Boston Travel Guide](https://www.google.com/destination?q=boston+historic+sites&safe=active&espv=2&site=search&output=search&dest_mid=/m/01cx_&sa=X&ved=0ahUKEwiPy77svbjRAhVM7iYKHf1WAW8Qri4IoAIwDw)
+
+[4 Minute Drone Video Over Boston](https://www.youtube.com/watch?v=LrNfgCPT7Vk)
 
 ![Workshops](../images/visiting_boston/harbor_tour_37.jpg "Boston from the harbor")
 
-![Workshops](../images/visiting_boston/neaq_collage.jpg "Boston from the Charles River")
+![Workshops](../images/visiting_boston/charles_river_from_kendall_duck_boat_1.jpg "Boston from the Charles River")
 
 ### Getting around:
 
@@ -72,7 +78,11 @@ City of Boston’s [Getting Around Boston](https://www.boston.gov/getting-around
 
 ![Workshops](../images/visiting_boston/biker.jpg "Bicyclist on path")
 
-### [Harvard Square](http://www.harvardsquare.com/) and [Harvard University](http://www.harvard.edu/on-campus/visit-harvard) (site of workshops)
+### Harvard Square and Harvard University (site of workshops)
+
+[Harvard Square](http://www.harvardsquare.com/)
+
+[Harvard University](http://www.harvard.edu/on-campus/visit-harvard)
 
 ![Workshops](../images/visiting_boston/harvard_sq_news.jpg "Harvard Square")
 
@@ -99,17 +109,17 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Lawn on D](https://signatureboston.com/lawn-on-d)
 
-[Boston Harbor Cruises](https://signatureboston.com/lawn-on-d)
+[Boston Harbor Cruises](http://www.bostonharborcruises.com/)
 
 ### Outdoor recreation:
 
 [Charles River Canoe and Kayak](http://www.paddleboston.com/main.php)
 
-[Lawn on D](https://signatureboston.com/lawn-on-d)
-
 ![Workshops](../images/visiting_boston/charles_river_kayaks_1.jpg "Charles River kayaks")
 
 ![Workshops](../images/visiting_boston/charles_river_stand_up_paddleboards.jpg "Charles River stand up paddleboards")
+
+[Lawn on D](https://signatureboston.com/lawn-on-d)
 
 [Boston Common](http://friendsofthepublicgarden.org/our-parks/boston-common/)
 
@@ -141,11 +151,12 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Institute of Contemporary Art](https://www.icaboston.org/)
 
-![Workshops](https://en.wikipedia.org/wiki/South_Boston#/media/File:Institute_of_Contemporary_Art,_Boston.jpg "Institute of Contemporary Art")
+![Workshops](../images/visiting_boston/ica.jpg "Institute of Contemporary Art")
+[By Smart Destinations from Boston, USA](http://creativecommons.org/licenses/by-sa/2.0), via Wikimedia Commons
 
 [Museum of Fine Arts](http://www.mfa.org/)
 
-![Workshops](https://upload.wikimedia.org/wikipedia/commons/b/b4/Mfa_boston_af.jpg "Museum of Fine Arts")
+![Workshops](../images/visiting_boston/mfa.jpg "Museum of Fine Arts")
 
 [Boston Public Library](http://www.bpl.org/)
 
@@ -201,7 +212,7 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 [Quincy Market](https://en.wikipedia.org/wiki/Quincy_Market)
 
-![Workshops](../images/visiting_boston/tea_party_museum.jpg "Quincy Market")
+![Workshops](../images/visiting_boston/quincy_market_1.jpg "Quincy Market")
 
 [Faneuil Hall](http://www.faneuilhall.com/)
 
@@ -225,11 +236,15 @@ The conference takes place in the dynamic and changing Waterfront neighborhood. 
 
 ### Food 
 
+![Workshops](../images/visiting_boston/north_end_mikes_pastry_2.jpg "North End pastries")
+
+![Workshops](../images/visiting_boston/oyster_bar.jpg "Seafood")
+
 [Boston Public Market](https://bostonpublicmarket.org/)
 
 ![Workshops](../images/visiting_boston/boston_public_market_4.jpg "Boston Public Market")
 
 ![Workshops](../images/visiting_boston/boston_public_market_cheese_1.jpg "Boston Public Market cheese")
 
-![Workshops](../images/visiting_boston/north_end_mikes_pastry_2.jpg "North End pastries")
+
 
