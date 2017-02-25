@@ -233,39 +233,64 @@ image:
 </div>
 
 <a name='keynote'></a>
-<div class="gen-section">
+<div class="gen-section" id="speaker-div">
     <div class="gen-section-title">
         <h1 style="font-weight: 500;">Keynote Speakers</h1>
     </div>
     <div>&nbsp;</div>
     <div class="speaker-box">
         <div class="speaker">
-            <img class="img-circle" src="images/keynote_holly_st_clair_web.jpg" alt="Holly St. Clair Photo" height="200" width="200">
-            <br /><cite><sub>&nbsp;</sub></cite>
-            <br />
-            <h2 class="speaker-name">Holly St. Clair</h2>
-            <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Chief Digital Officer<br /><strong>Commonwealth of Massachusetts</strong></p>
+            <a href="#openModal-stclair"><img class="img-circle" src="images/keynote_holly_st_clair_web.jpg" alt="Holly St. Clair Photo" height="200" width="200">
+                <br /><cite><sub>&nbsp;</sub></cite>
+                <br />
+                <h2 class="speaker-name">Holly St. Clair</h2>
+                <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Chief Digital Officer<br /><strong>Commonwealth of Massachusetts</strong></p>
+            </a>
         </div>
         <div class="speaker">
-            <img class="img-circle" src="images/keynote_paul_ramsey_web.jpg" alt="Paul Ramsay Photo" height="200" width="200">
-            <br /><cite><sub>&nbsp;</sub></cite>
-            <br />
-            <h2 class="speaker-name">Paul Ramsey</h2>
-            <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Solutions Architect<br /><strong>CARTO</strong></p>
-            <button id="myBtn">Open Modal</button>
+            <a href="#openModal-ramsey"><img class="img-circle" src="images/keynote_paul_ramsey_web.jpg" alt="Paul Ramsay Photo" height="200" width="200">
+                <br /><cite><sub>&nbsp;</sub></cite>
+                <br />
+                <h2 class="speaker-name">Paul Ramsey</h2>
+                <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Solutions Architect<br /><strong>CARTO</strong></p>
+            </a>
         </div>
     </div>
     <div class="speaker-box">
         <div class="speaker">
-            <img class="img-circle" src="images/keynote_richard_stallman_web.png" alt="Dr. Richard Stallman Photo" height="200" width="200">
-            <br /><cite><sub>Courtesy of Blake Livingston/<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a></sub></cite>
+            <a href="#openModal-stallman"><img class="img-circle" src="images/keynote_richard_stallman_web.png" alt="Dr. Richard Stallman Photo" height="200" width="200"></a>
+            <br /><cite><sub>Courtesy of Blake Livingston / CC-BY-SA</sub></cite>
             <br />
             <br />
-            <h2 class="speaker-name">Dr. Richard Stallman</h2>
-            <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Founder and President<br /><strong>Free Software Foundation</strong></p>
+            <a href="#openModal-stallman"><h2 class="speaker-name">Dr. Richard Stallman</h2>
+            <p class="speaker-excerpt" style="font-style: italic; line-height: 1.25;">Founder and President<br /><strong>Free Software Foundation</strong></p></a>
         </div>
 
         <div class="speaker">
+        </div>
+    </div>
+    <div id="openModal-stallman" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2>Richard Stallman</h2>
+            <p>This is a sample modal box that can be created using the powers of CSS3.</p>
+            <p>Heres a person...</p>
+        </div>
+    </div>
+    <div id="openModal-stclair" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2>Holly St. Clair</h2>
+            <p>This is a sample modal box that can be created using the powers of CSS3.</p>
+            <p>Heres a person...</p>
+        </div>
+    </div>
+    <div id="openModal-ramsey" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2>Paul Ramsey</h2>
+            <p style="text-align:left; line-height:125%"><strong>Why We Code</strongt ><br /><br />The economics of open source seem as dire as ever, and yet the communities continue to churn out new software of all kinds, in all categories. There seems to be a disconnect. Can we square the self-interest of users with the self-interest of developers to keep the ecosystem alive in the long term?</p>
+            <p style="text-align:left; line-height:125%"><strong>Paul Ramsey</strong> is a Solutions Engineer at Carto. He has been working with geospatial software for over 15 years: consulting to government and industry; building a geospatial software company; and programming on open source software. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. In 2008, Paul received the Sol Katz Award for achievement in open source geospatial software. Paul speaks and teaches regularly at conferences around the world.</p>
         </div>
     </div>
 </div>
@@ -295,28 +320,7 @@ image:
         <p class="section-excerpt">Come by the website and see what is new. Share that with your friends.</p>
         <h2 class="section-title">Follow on Twitter</h2>
         <p class="section-excerpt"><i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/foss4g" target="_blank">@foss4g</a></p>
-        <h2 class="section-title">Follow on Facebook</h2>
-        <p class="section-excerpt"><i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://facebook.com/foss4g2017" target="_blank">facebook.com/foss4g2017</a></p>      
     </div>
-</div>
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">&times;</span>
-      <h2>Modal Header</h2>
-    </div>
-    <div class="modal-body">
-      <p>Some text in the Modal Body</p>
-      <p>Some other text...</p>
-    </div>
-    <div class="modal-footer">
-      <h3>Modal Footer</h3>
-    </div>
-  </div>
-
 </div>
 <div class="gen-section">
     <a name='sponsors'></a>
@@ -430,6 +434,10 @@ image:
                 <div class="sponsor sponsor-partner">
                     <a href="http://www.directionsmag.com"><img src="images/partner_directions_web.png"></a>
                 </div>
+                <div class="sponsor-box">
+                    <div class="sponsor sponsor-partner">
+                        <a href="https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSS4G"><img src="images/partner_tib_web.png"></a>
+                    </div>
             </div>
         </div>
     </div>
