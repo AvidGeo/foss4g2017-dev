@@ -7,6 +7,14 @@ li a {
     text-decoration: none;
 }
 
+.not {
+  display: block;;
+  color: black;
+  text-align: left;
+  padding: 0px 0px;
+  border-bottom: 1px solid white;
+}
+
 .dropdown:hover .dropbtn,
 li a:hover {
     background-color: #d3d3d3;
@@ -59,4 +67,18 @@ a.dropbtn {}
 
 .left {
     text-align: left;
+}
+
+.photo-gallery, .photo-gallery li {
+  list-style: none;
+  padding: 0;
+}
+
+.photo-gallery li {
+  display: inline-block;
+  width: 33%;
+}
+
+.photo-gallery li img {
+  width: 100%;
 }

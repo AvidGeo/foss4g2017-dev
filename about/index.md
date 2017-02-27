@@ -22,3 +22,7 @@ Participants at FOSS4G Boston 2017 are expected to act respectfully toward other
 # Follow on Twitter
 
 [@foss4g](https://twitter.com/foss4g)
+
+# Follow on Facebook
+
+[https://facebook.com/foss4g2017](https://facebook.com/foss4g2017)

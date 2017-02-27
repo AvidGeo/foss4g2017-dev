@@ -91,9 +91,8 @@ a {
 .welcome {
     text-align: center;
     padding-top: 20px;
-    padding-right: 120px;
-    padding-left: 120px;
     font-family: "Open Sans",Helvetica,Arial,Sans-Serif;
+    margin: 0 auto;
 }
 
 .welcome h4 {
@@ -120,7 +119,7 @@ a {
     font-size: 21px;
     line-height: 1.25;
 }
-@media screen and (min-width: 463px) {
+@media screen and (min-width: 800px) {
     .feature-wrapper {
         @include outer-container;
         color: #000;
@@ -132,9 +131,15 @@ a {
         text-align: center;
         background-color: rgba(255,255,255,0.90);
         border-radius: 40px;
+        // margin-left: 0px;
+    }
+
+    .feature-main {
+        margin-left: 0;
+        height: 350px;
     }
 }
-@media screen and (max-width: 463px) {
+@media screen and (max-width: 800px) {
     .feature-wrapper {
         @include outer-container;
         margin-top: 20px;
@@ -147,6 +152,10 @@ a {
         text-align: center;
         border-radius: 40px;
         background-color: rgba(255,255,255,0.90);
+    }
+
+    .main-float {
+        margin-left: 0;
     }
 }
 @media screen and (min-width: 800px) {
@@ -174,7 +183,6 @@ a {
         padding-top: 0;
         margin-bottom: 48px;
     }
-
     .video-inner {
         @include fill-parent();
         text-align: center;
@@ -652,7 +660,6 @@ strong {
     background-color: darkseagreen;
 }
 
-
 #overview {
     text-align: center;
     padding: 0;
@@ -758,7 +765,7 @@ strong {
     left: 0;
     background: rgba(255,255,255,0.7);
     z-index: 99999;
-    opacity:0;
+    opacity: 0;
     -webkit-transition: opacity 400ms ease-in;
     -moz-transition: opacity 400ms ease-in;
     transition: opacity 400ms ease-in;
@@ -766,7 +773,7 @@ strong {
 }
 
 .modalDialog:target {
-    opacity:1;
+    opacity: 1;
     pointer-events: auto;
 }
 
@@ -775,7 +782,7 @@ strong {
     width: 75%;
     position: relative;
     margin: 15% auto;
-    padding: 5px 20px 13px 20px;
+    padding: 5px 20px 13px;
     border-radius: 10px;
     background: #000;
 }
@@ -799,4 +806,29 @@ strong {
     box-shadow: 1px 1px 3px #000;
 }
 
-.close:hover { background: #bc1f40; }
+.close:hover {
+    background: #bc1f40;
+}
+
+#welcome-table {
+    text-align: left;
+    margin: 0 12px 12px;
+    display: inline-block;
+    width: auto;
+}
+
+#welcome-table td {
+    padding: 2px;
+}
+
+#welcome-table th {
+    padding: 2px;
+}
+
+#welcome-table .second-col {
+    padding-left: 12px;
+}
+
+td a {
+    text-decoration: none;
+}
