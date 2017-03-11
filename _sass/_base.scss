@@ -183,6 +183,7 @@ a {
         padding-top: 0;
         margin-bottom: 48px;
     }
+
     .video-inner {
         @include fill-parent();
         text-align: center;
@@ -360,8 +361,8 @@ figcaption {
 
 .img-circle {
     border-radius: 50%;
-    height:200px;
-    margin-bottom:5px;
+    height: 200px;
+    margin-bottom: 5px;
 }
 /* Fix IE9 SVG bug */
 svg:not(:root) {
@@ -834,9 +835,9 @@ td a {
 }
 
 .headlink a {
-    margin-top: 0px;
+    margin-top: 0;
     font-size: 14px;
-    font-size: .875rem;
+    font-size: 0.875rem;
     line-height: 1.71429;
     margin-bottom: 24px;
     margin-bottom: 1.5rem;
@@ -849,6 +850,4 @@ td a {
     margin-top: 6px;
     color: #fff;
     border-radius: 4px;
-
-
 }
