@@ -26,6 +26,24 @@ Workshops are an important and popular part of FOSS4G, and this year they will t
 
 ![Workshops](../images/vienna_code_sprint.jpg "Workshops")
 
+#### Currently Accepted Workshops
+
+Currently accepted workshops include the following. Workshops are being evaluated and accepted on a rolling basis and he final schedule will be released after all workshops are submitted, evaluated, and approved by the FOSS4G 2017 Workshops committee.
+
+Workshop | Presenters & Affiliations
+-------- | ----------------------------
+<strong>ZOO-Project</strong> Introduction Workshop | GeoLabs SARL
+<strong>PyWPS-4</strong> | Jachym Cepicky
+<strong>pgRouting</strong> Workshop | Stephen Woodbridge (iMaptools.com)
+Image Classification with <strong>Orfeo ToolBox</strong> and <strong>QGIS</strong> | Manuel Grizonnet (CNES)
+Browser-based Geoprocessing with <strong>Turf.js</strong> and <strong>Leaflet</strong> | Numa Gremling (GeoSYS), Martin Dresen (gis-trainer.com), Katrin Hannemann (gis-trainer.de)
+Sales and Marketing 101 for FOSS4G Businesses | Steven Feldman (KnowWhere Consulting) Marc Vloemans
+Slippy Maps, you complete me: A guide to <strong>tilehut.js</strong> | Joey Lee
+Introduction to using <strong>QGIS</strong> with Fulcrum | Randy Hale (North River Geographic Systems)
+Problem Solving with <strong>pgRouting</strong> | Leo Hsu and Regina Obe (Paragon Corp)
+
+## Submitting a Workshop (Until March 13)
+
 #### Workshop Description and Environment
 
 Most workshops are half-day (4 hour) and all provide hands-on experiences with participants following along with an instructor. We will consider a limited number of full day (8 hour) workshops.

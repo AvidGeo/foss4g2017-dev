@@ -2,4 +2,9 @@ _config.yml
 _site
 .sass-cache
 .DS_Store
+<<<<<<< HEAD
 CNAME
+=======
+
+
+>>>>>>> 777c4986a18f71bcbf7c1f3445856138eed2456f

@@ -1,0 +1,1 @@
+Select St_Distance( Geom, St_Transform(St_Geomfromtext('POINT(-73.45314063 41.97885229)', 4269), 102008)) As Distince_4326, St_Srid( Geom ) As Block_Srid From ( Select * From hubb.Census_2D Where Geoid10 = '090052611001046') Block;
