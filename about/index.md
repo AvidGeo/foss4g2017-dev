@@ -15,6 +15,10 @@ FOSS4G has been held all over the world and draws attendees from over 40 countri
 
 **The Open Source Geospatial Foundation** was founded to support and build the highest-quality open source geospatial software. The foundation's goal is to encourage the use and collaborative development of community-led projects, data development and education. Many projects live under the OSGeo umbrella. [http://osgeo.org](http://osgeo.org/)
 
+# Contact Us
+
+Have a question? Contact us at <a href="mailto:foss4g2017@gmail.com">foss4g2017@gmail.com</a>
+
 # Code Of Conduct
 
 Participants at FOSS4G Boston 2017 are expected to act respectfully toward others in accordance with the [OSGEO Code of Conduct](http://www.osgeo.org/code_of_conduct).
