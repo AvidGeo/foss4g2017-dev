@@ -1,5 +1,18 @@
 # Site navigation links
 
+<<<<<<< HEAD
+=======
+- title: Home
+  url: /
+  excerpt: "We welcome you to Boston for FOSS4G 2017"
+  image: 400x250.png
+
+- title: Participate
+  url: /call-for-presentations/
+  excerpt: "The importance of answering this call"
+  image: 400x250.png
+
+>>>>>>> clean-up of directory
 - title: Register
   url: /register/
   excerpt: "Early Bird Registration is now open"
