@@ -5,15 +5,7 @@
   excerpt: "We welcome you to Boston for FOSS4G 2017"
   image: 400x250.png
 
-<<<<<<< HEAD
-- title: Participate
-  url: /call-for-presentations/
-  excerpt: "The importance of answering this call"
-  image: 400x250.png
-
-=======
->>>>>>> 3f75020591e7cd44b775b1b450bf8f97f1fc3697
-- title: Register
+- title: Regist
   url: /register/
   excerpt: "Early Bird Registration is now open"
   image: 400x250.png
