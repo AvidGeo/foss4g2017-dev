@@ -37,7 +37,7 @@ Workshops are an important and popular part of FOSS4G, and this year they will t
 
 #### Workshop Program
 
-We are excited to have an incredible lineup of workshops for this year's event. The following is the current line up. The workshops committee is working diligently on scheduling, and links to signup will be posted in early April.
+We are excited for all of the incredible workshops at this year's event. The Workshop Committee is working diligently on scheduling and in early April there will be links to signup. The following is the current lineup:
 
 Workshop | Presenters & Affiliations | Topic
 -------- | ------------------------- | --------
@@ -124,9 +124,6 @@ Event | Date
 ----- | ----
 Call for Workshops Announced | January 21, 2017
 Call for Workshops Closed | March 13, 2017
-Workshop Selections Announced | March 20, 2017
+Workshop Selections Announced | March 27, 2017
 Detailed Workshop Program | April 3, 2017
 Workshops Take Place at Harvard | August 14/15, 2017
-
-
-
