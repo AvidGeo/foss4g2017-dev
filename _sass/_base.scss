@@ -167,10 +167,9 @@ a {
     }
 
     .video-inner {
-        @include span-columns(12);
+        @include span-columns(6);
         text-align: center;
         background-color: rgba(255,255,255,0.90);
-        width: 45%;
     }
 }
 @media screen and (max-width: 799px) {
@@ -186,7 +185,6 @@ a {
     .video-inner {
         @include fill-parent();
         text-align: center;
-        width: 45%;
         background-color: rgba(255,255,255,0.90);
     }
 }
