@@ -1,9 +1,4 @@
----
-layout: home
-permalink: /
-image:
-  feature: boston-map.png
----
+--- layout: home permalink: / image: feature: boston-map.png ---
 <div class="sections">
 
     <div class="section">
@@ -23,7 +18,8 @@ image:
     </div>
     <div class="section">
         <h2 class="section-title"><a href="{{ site.baseurl }}/attending">Social Events</a></h2>
-        <p class="section-excerpt">Many evening events are planned, including a Icebreaker at <a href="https://www.harpoonbrewery.com/" target="_blank">Harpoon Brewery</a>, a Social at the <a href="http://www.seaportboston.com/" target="_blank">Seaport Hotel</a>, and a Gala at the <a href="http://www.neaq.org/" target="_blank">New England Aquarium</a>.</p>
+        <p class="section-excerpt">Many evening events are planned, including a Icebreaker at <a href="https://www.harpoonbrewery.com/" target="_blank">Harpoon Brewery</a>, a Social at the <a href="http://www.seaportboston.com/" target="_blank">Seaport Hotel</a>, and a Gala at
+            the <a href="http://www.neaq.org/" target="_blank">New England Aquarium</a>.</p>
         <p class='headlink speaker-modal-button'><a href="{{ site.baseurl }}/attending">More info <i class="fa fa-external-link" aria-hidden="true"></i></a></p>
 
     </div>
@@ -243,12 +239,12 @@ image:
     <div>&nbsp;</div>
     <div class="speaker-box">
         <div class="speaker">
-          <img class="img-circle" src="images/keynote_holly_st_clair_web.jpg" alt="Holly St. Clair Photo" height="200" width="200">
-          <p class='courtesy'>&nbsp;</p>
-          <h2 class="speaker-name">Holly St. Clair</h2>
-          <p class="speaker-excerpt">Chief Digital Officer</p>
-          <p class="speaker-org">Commonwealth of Massachusetts</p>
-          <p><a href="#openModal-stclair" class="speaker-modal-button">Click for details</a></p>
+            <img class="img-circle" src="images/keynote_holly_st_clair_web.jpg" alt="Holly St. Clair Photo" height="200" width="200">
+            <p class='courtesy'>&nbsp;</p>
+            <h2 class="speaker-name">Holly St. Clair</h2>
+            <p class="speaker-excerpt">Chief Digital Officer</p>
+            <p class="speaker-org">Commonwealth of Massachusetts</p>
+            <p><a href="#openModal-stclair" class="speaker-modal-button">Click for details</a></p>
         </div>
         <div class="speaker">
             <img class="img-circle" src="images/keynote_paul_ramsey_web.jpg" alt="Paul Ramsay Photo" height="200" width="200">
@@ -268,13 +264,40 @@ image:
             <p class="speaker-org">Free Software Foundation</p>
             <p><a href="#openModal-stallman" class='speaker-modal-button'>Click for details</a></p>
         </div>
+        <div class="speaker">
+            <img class="img-circle" src="images/keynote_maría_arias_de_reyna.jpg" alt="María Arias de Reyna Photo" height="200" width="200"></a>
+            <p class='courtesy'>&nbsp;</p>
+            <h2 class="speaker-name">María Arias de Reyna</h2>
+            <p class="speaker-excerpt">Software Engineer</p>
+            <p class="speaker-org">GeoCat</p>
+            <p><a href="#openModal-Reyna" class='speaker-modal-button'>Click for details</a></p>
+        </div>
     </div>
     <div id="openModal-stallman" class="modalDialog">
         <div>
             <a href="#close" title="Close" class="close">X</a>
             <h2>Richard Stallman</h2>
-            <p style="text-align:left; line-height:125%"><strong>Free Software: Freedom, Privacy, Sovereignty</strong><br /><br />The Free Software Movement campaigns for computer users' freedom to cooperate and control their own computing. The Free Software Movement developed the GNU operating system, typically used together with the kernel Linux, specifically to make these freedoms possible. Since proprietary software often sends reports on its users' activity, avoiding proprietary software is an essential part of recovering practical privacy. For state agencies, avoiding proprietary software is crucial for recovering the country's computational sovereignty.</p>
-            <p style="text-align:left; line-height:125%"><strong>Dr. Richard Stallman</strong> launched the free software movement in 1983 and started the development of the GNU operating system (see www.gnu.org) in 1984.  GNU is free software: everyone has the freedom to copy it and redistribute it, with or without changes.  The GNU/Linux system, basically the GNU operating system with Linux added, is used on tens of millions of computers today.  Stallman has received the ACM Grace Hopper Award and the ACM Software and Systems Award, a MacArthur Foundation fellowship, the Electronic Frontier Foundation's Pioneer Award, and the the Takeda Award for Social/Economic Betterment, as well as several doctorates honoris causa, and has been inducted into the Internet Hall of Fame.</p>
+            <p style="text-align:left; line-height:125%"><strong>Free Software: Freedom, Privacy, Sovereignty</strong><br /><br />The Free Software Movement campaigns for computer users' freedom to cooperate and control their own computing. The Free Software Movement developed the GNU operating
+                system, typically used together with the kernel Linux, specifically to make these freedoms possible. Since proprietary software often sends reports on its users' activity, avoiding proprietary software is an essential part of recovering
+                practical privacy. For state agencies, avoiding proprietary software is crucial for recovering the country's computational sovereignty.</p>
+            <p style="text-align:left; line-height:125%"><strong>Dr. Richard Stallman</strong> launched the free software movement in 1983 and started the development of the GNU operating system (see www.gnu.org) in 1984. GNU is free software: everyone has the freedom to copy it and redistribute
+                it, with or without changes. The GNU/Linux system, basically the GNU operating system with Linux added, is used on tens of millions of computers today. Stallman has received the ACM Grace Hopper Award and the ACM Software and Systems Award,
+                a MacArthur Foundation fellowship, the Electronic Frontier Foundation's Pioneer Award, and the the Takeda Award for Social/Economic Betterment, as well as several doctorates honoris causa, and has been inducted into the Internet Hall of
+                Fame.
+            </p>
+        </div>
+    </div>
+    <div id="openModal-Reyna" class="modalDialog">
+        <div>
+            <a href="#close" title="Close" class="close">X</a>
+            <h2>María Arias de Reyna</h2>
+            <p style="text-align:left; line-height:125%"><strong>Spatial Data Infrastructures for everyone</strong><br /><br />Transfer protocol standards and data format standards are being put to work by many governments daily because these standards make data sharing easy. At the same time many
+                data producers and users outside the government are using “wild open data formats” that do not follow any strict rules. These formats sometimes become the ”de facto” standard and evolve in parallel across the globe, making each one a new
+                flavor of the original. How do we deal with this? Is there a way to have a spatial data infrastructure(SDI) that can reach all use cases and not fail in the attempt?</p>
+
+            <p style="text-align:left; line-height:125%"><strong>María Arias de Reyna</strong>, a Software Engineer at GeoCat, is one of the core developers of GeoNetwork, a free and open source catalog to manage spatially referenced resources under the OSGeo umbrella. María has been working with geospatial software for almost a decade: from fleet management to routing platforms and now metadata. She is a free (as in freedom) and open software evangelist and a very active member within several developer communities.
+
+            </p>
         </div>
     </div>
     <div id="openModal-stclair" class="modalDialog">
@@ -289,8 +312,11 @@ image:
         <div>
             <a href="#close" title="Close" class="close">X</a>
             <h2>Paul Ramsey</h2>
-            <p style="text-align:left; line-height:125%"><strong>Why We Code</strong><br /><br />The economics of open source seem as dire as ever, and yet the communities continue to churn out new software of all kinds, in all categories. There seems to be a disconnect. Can we square the self-interest of users with the self-interest of developers to keep the ecosystem alive in the long term?</p>
-            <p style="text-align:left; line-height:125%"><strong>Paul Ramsey</strong> is a Solutions Engineer at Carto. He has been working with geospatial software for over 15 years: consulting to government and industry; building a geospatial software company; and programming on open source software. He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. In 2008, Paul received the Sol Katz Award for achievement in open source geospatial software. Paul speaks and teaches regularly at conferences around the world.</p>
+            <p style="text-align:left; line-height:125%"><strong>Why We Code</strong><br /><br />The economics of open source seem as dire as ever, and yet the communities continue to churn out new software of all kinds, in all categories. There seems to be a disconnect. Can we square the self-interest
+                of users with the self-interest of developers to keep the ecosystem alive in the long term?</p>
+            <p style="text-align:left; line-height:125%"><strong>Paul Ramsey</strong> is a Solutions Engineer at Carto. He has been working with geospatial software for over 15 years: consulting to government and industry; building a geospatial software company; and programming on open source software.
+                He co-founded the PostGIS spatial database project in 2001, and is currently an active developer and member of the project steering committee. In 2008, Paul received the Sol Katz Award for achievement in open source geospatial software.
+                Paul speaks and teaches regularly at conferences around the world.</p>
         </div>
     </div>
 </div>
@@ -415,7 +441,7 @@ image:
                 <a href="https://carto.com/" alt="CARTO Logo">
                     <img src="images/sponsor_carto_web.png">
                 </a>
-           </div>
+            </div>
         </div>
     </div>
     <div class="gen-section">
@@ -423,12 +449,12 @@ image:
         <div class="sponsor-box">
             <div class="sponsor sponsor-bronze">
                 <a href="http://www.safe.com" alt="Safe Software Logo">
-                  <img src="images/sponsor_safe_web.png">
+                    <img src="images/sponsor_safe_web.png">
                 </a>
             </div>
             <div class="sponsor sponsor-bronze">
                 <a href="http://www.geo-solutions.it/" alt="Geo Solutions Logo">
-                  <img src="images/sponsor_geosolutions_web.png">
+                    <img src="images/sponsor_geosolutions_web.png">
                 </a>
             </div>
             <!-- <div class="sponsor">
@@ -453,7 +479,7 @@ image:
             </div>
             <div class="sponsor sponsor-supporter">
                 <a href="http://www.respec.com/" alt="RESPEC Logo">
-                  <img src="images/sponsor_respec_web.png">
+                    <img src="images/sponsor_respec_web.png">
                 </a>
             </div>
         </div>
