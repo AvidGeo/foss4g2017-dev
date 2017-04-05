@@ -15,6 +15,10 @@ FOSS4G has been held all over the world and draws attendees from over 40 countri
 
 **The Open Source Geospatial Foundation** was founded to support and build the highest-quality open source geospatial software. The foundation's goal is to encourage the use and collaborative development of community-led projects, data development and education. Many projects live under the OSGeo umbrella. [http://osgeo.org](http://osgeo.org/)
 
+# Boston Local Organizing Committee (BLOC)
+
+The Boston Local Organizing Committee is made up of key members within the Boston (and beyond!) geo community that represents the academic, business, government, and technology sectors. The BLOC also embodies strong ties to the FOSS4G community and has experience with prior FOSS4G conferences.
+
 # Contact Us
 
 Have a question? Contact us at <a href="mailto:foss4g2017@gmail.com">foss4g2017@gmail.com</a>
