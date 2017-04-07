@@ -55,15 +55,19 @@ outdoor:
 
 ---
 
-![Seaport World Trade Center](../images/venue_wtc.jpg "Seaport World Trade Center")
-
 # Location
+![Seaport World Trade Center](../images/venue_wtc.jpg "Seaport World Trade Center"){: .not}
 
 The conference will be held at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com) in the Boston [Seaport District](https://www.bostonusa.com/about-boston/boston-neighborhoods/seaport-district). Workshops will be hosted by [The Center for Geographic Analysis at Harvard University](http://gis.harvard.edu/) in neighboring Cambridge, MA.
 
-![Seaport Hotel](../images/venue_hotel.jpg "Seaport Hotel")
+# Who's Attending?
+
+#### Country Origins of Conference Attendees
+
+<iframe width="65%" height="350" frameborder="0" src="https://atardif.carto.com/builder/8e388472-1954-11e7-9086-0e3ebc282e83/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 # Lodging
+![Seaport Hotel](../images/venue_hotel.jpg "Seaport Hotel"){: .not}
 
 A room block has been reserved for event participants at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com). The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
 
@@ -71,19 +75,19 @@ A room block has been reserved for event participants at the [Seaport Hotel & Wo
 
 # Extracurriculars
 
-## Welcome Social - Tuesday, August 15th - Harpoon Brewery
+### Welcome Social - Tuesday, August 15th - Harpoon Brewery
 
 ![Harpoon Brewery](../images/extracurricular/harpoon_brewery.jpg "Harpoon Brewery") By John Phelan - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=18498782>
 
 The Icebreaker will take place Tuesday, August 15th at the [Harpoon Brewery](http://www.harpoonbrewery.com/). Try local beers and ciders in the beer hall accompanied by handmade freshly baked pretzels cooked in beer and served with warm dipping sauces. Participants can take a walkthrough of the brewery as well. See [What's on tap](http://www.harpoonbrewery.com/breweries/boston/whats-on-tap)!
 
-## Icebreaker - Wednesday August 16th - Conference Venue
+### Icebreaker - Wednesday August 16th - Conference Venue
 
 ![World Trade Center](../images/extracurricular/world_trade_center_from_water.jpg "World Trade Center")
 
 The Welcome Social will take place Wednesday, August 16th at the conference venue overlooking beautiful Boston Harbor. Get to know your fellow conference goers from around the world!
 
-## Gala - Thursday August 17th - New England Aquarium
+### Gala - Thursday August 17th - New England Aquarium
 
 ![New England Aquarium](../images/extracurricular/neaq_collage.jpg "New England Aquarium")
 
