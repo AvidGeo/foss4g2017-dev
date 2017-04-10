@@ -38,11 +38,11 @@
                     <p style="margin-top: 0px;"><span>Presented by: </span><img src="{{ site.baseurl }}/images/sponsor_osgeo_web.png" style="height: 50px; margin-top: 0px; margin-bottom: 6px;"></p>
                 </div>
                 <div class="feature-inner feature-main welcome-dates">
-                    <h4 style="margin-top: 0px;"><strong>Community Voting</strong></h4>
-                    <p style="margin-bottom: 6px">Help select main conference presentations!</p>
+                    <h4 style="margin-top: 0px;margin-bottom:8px"><strong>Community Voting</strong></h4>
+                    <!-- <p style="margin-bottom: 6px">Help select main conference presentations!</p> -->
                     <p class='headlink modal-button'><a href="http://community-review.foss4g.org/" style="text-decoration: none; margin-top: 0;">Vote for the Program</a></p>
 
-                    <h2 id="head-feature" style="padding-bottom: 4px;">Key Dates</h2>
+                    <h2 id="head-feature" style="padding:2px;">Key Dates</h2>
                     <table id="welcome-table">
                         <tr>
                             <th>Date</th>
@@ -65,6 +65,14 @@
                             <td class="second-col"><strong>First Day of Main Conference!</strong></td>
                         </tr>
                     </table>
+                    <p style="background-color:lightgrey;">
+                      <strong>Check out the latest blog article</strong>
+                    {% for post in site.posts limit:1 %}
+                        <br /><a href="./blog">{{ post.title }}</a>
+                    {% endfor %}
+                  </p>
+
+
                 </div>
             </div>
         </div>
