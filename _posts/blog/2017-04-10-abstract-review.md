@@ -5,12 +5,8 @@ modified: null
 categories: program
 excerpt: "There's an old saying that goes \"careful of what you wish for\" and I think our Program Committee is feeling that strongly..."
 tags: []
-image:
-  feature: null
-  teaser: null
-  thumb: null
 author:
-  name: Guido Stein
+  name: Michael Terner
 ---
 
 # An embarrassment of riches, and difficult cuts
