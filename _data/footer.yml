@@ -3,9 +3,6 @@
 - title: Home
   url: /
 
-- title: Call for presentations
-  url: /call-for-presentations/
-
 - title: Register
   url: /register/
 
@@ -20,3 +17,6 @@
 
 - title: About
   url: /about/
+
+- title: Blog
+  url: /blog/
