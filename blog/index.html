@@ -1,0 +1,16 @@
+---
+layout: blog
+title: Blog
+image:
+  feature: boston-map.png
+---
+<p>
+    <ul style="list-style-type:none">
+        {% for post in site.posts %}
+        <li>
+            <h1><a href="{{ post.url }}" class="not">{{ post.title }}</a></h1>
+            <p>{{ post.content }}</p>
+        </li>
+        {% endfor %}
+    </ul>
+</p>

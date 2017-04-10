@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: Home
-  url: /
-  excerpt: "We welcome you to Boston for FOSS4G 2017"
-  image: 400x250.png
-
 - title: Register
   url: /register/
   excerpt: "Early Bird Registration is now open"
@@ -33,4 +28,9 @@
 - title: About
   url: /about/
   excerpt: "Everything you need to know about FOSS4G"
+  image: 400x250.png
+
+- title: Blog
+  url: /blog/
+  excerpt: "News and updates about the conference"
   image: 400x250.png

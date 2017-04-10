@@ -1,0 +1,26 @@
+---
+layout: default-topic
+---
+
+<div id="main" role="main">
+  <article class="wrap" itemscope itemtype="http://schema.org/Article">
+    {% if page.image.feature %}
+
+    {% endif %}
+    {% include breadcrumbs.html %}
+    <div class="inner-wrap">
+      <div id="content" class="page-content" itemprop="articleBody">
+        {{ content }}
+        <footer class="page-footer">
+          {% if page.categories %}{% include page-author.html %}{% endif %}
+          {% if page.share != false %}{% include share-this.html %}{% endif %}
+          {% include page-meta.html %}
+        </footer><!-- /.footer -->
+        <aside>
+          {% if page.comments == true %}{% include comments.html %}{% endif %}
+        </aside>
+      </div><!-- /.content -->
+    </div><!-- /.inner-wrap -->
+    {% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+  </article><!-- ./wrap -->
+</div><!-- /#main -->
