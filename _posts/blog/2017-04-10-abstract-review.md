@@ -16,18 +16,18 @@ _Full disclosure, I write this blog not just as the FOSS4G Boston 2017 Conferenc
 There's an old saying that goes "careful of what you wish for" and I think our Program Committee is feeling that strongly. On the Friday four days prior to the Call for Presentations deadline, our committee knew that 90 abstracts had been submitted, and we wished mightily for many more (knowing we had room for over 200 talks). Well our wish came true and over those last four days we received 336 more abstracts for a total of 416 (and we received several requests to consider abstracts from people who missed the deadline). This was great news, but the "careful what you wish for" part is being felt in two large ways:
 
 1. We have a lot more work to do. Spending 5 minutes per abstract 416 times adds up to over 34 hours for each reviewer. And, reading and scoring is just the start of the selection process.
-
 2. After reading just the first several dozen it was clear that the general quality of abstracts was very high. The number of rooms we have and the general program that has been laid out tell us that somewhere between 175 - 200 abstracts will need to be rejected.
 
 As such, we anticipate that the decision making process is going to be arduous, complicated and emotionally difficult knowing that many papers won't be accepted. We also know that a lot of work went into creating abstracts and that in some cases having an abstract accepted impacts one's ability to attend the conference. Given these realities and in the spirit of free and open communication I thought it might be useful to share some of the things the program committee thought about in preparing our Call for Presentations and also how we are entering the deliberation phase of the process.
 
-First, and most importantly, the Boston team has a vision for the kind of program that we believe will underpin a great event and attract the largest and widest audience to Boston in August. We also want an event that will help to strengthen the OSGeo community. We laid that vision out in our Call for Presentations (which has now been taken offline, but can be found [here](../call-for-presentations/){: style = "color:black; background-color:sandybrown;"} , and some of that outlook remains on the [Program Page](../) of the website. The basics of what we are looking for:
+First, and most importantly, the Boston team has a vision for the kind of program that we believe will underpin a great event and attract the largest and widest audience to Boston in August. We also want an event that will help to strengthen the OSGeo community. We laid that vision out in our Call for Presentations (which has now been taken offline, but can be found [here](../call-for-presentations/){:style="color:black" target="_blank_"}, and some of that outlook remains on the [Program Page](../program){:style="color:black" target="_blank_"} of the website.
+
+The basics of what we are looking for:
 
 - A **comprehensive program** that is attractive to developers and users of Open Source. A program with content for both advanced, long-time users as well as novices and those just "checking out" FOSS4G software.
 - Content that **represents the wide variety of uses of FOSS4G** software from government to private industry; from transportation to economic development to emergency response.
 - A diversity of voices, from experienced FOSS4G presenters to those new to the community, and including a cross section of gender, geography, and ethnicity.
-
-  - Representation from the emerging business ecosystem that surrounds the FOSS4G community. How are people creating businesses that employ or support FOSS4G?
+- Representation from the emerging business ecosystem that surrounds the FOSS4G community. How are people creating businesses that employ or support FOSS4G?
 
 Beyond finding content to help us realize our vision for the conference there are other important aspects that need to be considered in making the individual acceptance decisions.
 
@@ -44,4 +44,4 @@ Here is what comes next:
 3. We will then continue to make incremental acceptance announcements on a regular basis to continue revealing the program as early as we can.
 4. The last round of final announcements will be made on Monday, May 1.
 
-Thanks to the entire FOSS4G community for your support, and please keep on community voting through next Monday, April 10.
+Thanks to the entire FOSS4G community for your support.

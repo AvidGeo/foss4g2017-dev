@@ -25,7 +25,7 @@ Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" class="btn">Sign Up Coming Soon!</a>
+<a href="" class="btn">Sign Up Coming Soon!</a>
 
 See below for lineup!
 
@@ -106,7 +106,7 @@ Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
 
-<a href="https://goo.gl/forms/K11bcwa5xkpmYAsA3" class="btn">Sign Up Coming Soon!</a>
+<a href="" class="btn">Sign Up Coming Soon!</a>
 
 ## Workshop Details
 
