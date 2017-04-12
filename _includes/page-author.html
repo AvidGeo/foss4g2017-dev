@@ -7,8 +7,9 @@
 </div> -->
 <!-- ./author-image -->
 
-<div class="author-content">
-  <h3 class="author-name" >{{ site.data.messages.locales[site.locale].written_by }} {% if page.author.web %}<a href="{{ page.author.web }}" itemprop="author">{{ page.author.name }}</a>{% else %}<span itemprop="author">{{ page.author.name }}</span>{% endif %}</h3>
-  <p class="author-bio">{{ author.bio }}</p>
-</div>
+<div>
+  <p>{{ site.data.messages.locales[site.locale].written_by }} {% if page.author.web %}<a href="{{ page.author.web }}" itemprop="author">{{ page.author.name }}</a>{% else %}<span itemprop="author">{{ page.author.name }}</span>{% endif %}  &middot; 
 <!-- ./author-content -->
+
+{% if page.date %} {{ site.data.messages.locales[site.locale].updated }} {% if page.modified %}<time datetime="{{ page.modified | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% else %}<time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%SZ" }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time></p>{% endif %}
+</div><!-- /.page-meta -->{% endif %}

@@ -5,8 +5,11 @@ modified: null
 categories: program
 excerpt: "There's an old saying that goes \"careful of what you wish for\" and I think our Program Committee is feeling that strongly..."
 tags: []
+date: 2017-04-10
 author:
   name: Michael Terner
+image:
+  feature: boston-map.png
 ---
 
 # An embarrassment of riches, and difficult cuts
