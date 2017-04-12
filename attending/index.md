@@ -75,13 +75,21 @@ A room block has been reserved for event participants at the [Seaport Hotel & Wo
 
 # Extracurriculars
 
+<<<<<<< HEAD
 ### Welcome Social - Tuesday, August 15th - Harpoon Brewery
+=======
+## Welcome Social - Tuesday, August 15th - Harpoon Brewery
+>>>>>>> fix inconsistency with wording for evening activities
 
 ![Harpoon Brewery](../images/extracurricular/harpoon_brewery.jpg "Harpoon Brewery") By John Phelan - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=18498782>
 
 The Icebreaker will take place Tuesday, August 15th at the [Harpoon Brewery](http://www.harpoonbrewery.com/). Try local beers and ciders in the beer hall accompanied by handmade freshly baked pretzels cooked in beer and served with warm dipping sauces. Participants can take a walkthrough of the brewery as well. See [What's on tap](http://www.harpoonbrewery.com/breweries/boston/whats-on-tap)!
 
+<<<<<<< HEAD
 ### Icebreaker - Wednesday August 16th - Conference Venue
+=======
+## Icebreaker - Wednesday August 16th - Conference Venue
+>>>>>>> fix inconsistency with wording for evening activities
 
 ![World Trade Center](../images/extracurricular/world_trade_center_from_water.jpg "World Trade Center")
 
