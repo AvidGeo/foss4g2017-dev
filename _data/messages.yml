@@ -7,8 +7,8 @@ locales:
   en: &DEFAULT_EN
     overview: "Overview"
     toc: "Table of Contents"
-    written_by: "Written by"
-    updated: "Updated"
+    written_by: "Written by:"
+    updated: "Posted on:"
     share: "Share on"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
