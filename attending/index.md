@@ -62,7 +62,7 @@ The conference will be held at the [Seaport Hotel & World Trade Center](http://w
 
 # Who's Attending?
 
-#### Country Origins of Conference Attendees
+#### Origins of Conference Attendees
 
 <iframe width="65%" height="350" frameborder="0" src="https://atardif.carto.com/builder/8e388472-1954-11e7-9086-0e3ebc282e83/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
