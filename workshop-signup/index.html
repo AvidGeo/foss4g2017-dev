@@ -1,0 +1,632 @@
+---
+layout: topic
+title: Sponsor
+image:
+  feature: boston-map.png
+---
+
+    <h2>FOSS4G 2017 Workshop Lineup and Sign Up</h2>
+    <p>Workshops are Monday, August 14 and Tuesday, August 15 at the Harvard Center for Geographic Analysis in Cambridge. Workshop signups require unique registration codes that you can get from the main registration portal.</p>
+    <h5>Workshop Sign-Up Form &middot; <span><button onclick="location.reload();">Reset Form</button></span></h5>
+    <div id="pickerFilterOptions">
+        <div class="headerOptions" style="width: 25%">
+            <p>Search by Workshop Title</p>
+            <input id="titleFilterInput" style="width:90%;" type="text" onkeyup="titleFilter()" placeholder="Enter workshop title..." title="Type in a name">
+        </div>
+        <div class="headerOptions" style="width: 25%">
+            <p>Search by Presenter Name</p>
+            <input id="presenterFilterInput" style="width:90%;" type="text" onkeyup="presenterFilter()" placeholder="Enter presenter name..." title="Type in a name">
+        </div>
+        <div class="headerOptions" style="width: 25%">
+            <p>Search by Session Time</p>
+            <select id="timeFilterInput" style="width:90%" onchange="timeFilter()">
+                <option value="None" selected disabled>Session time...</option>
+                <option value="Mon - All Day">Mon- All Day</option>
+                <option value="Mon - AM">Mon - AM</option>
+                <option value="Mon - PM">Mon - PM</option>
+                <option value="Tues - All Day">Tues - All Day</option>
+                <option value="Tues - AM">Tues - AM</option>
+                <option value="Tues - PM">Tues - PM</option>
+            </select>
+        </div>
+        <div class="headerOptions" style="width: 25%">
+            <p>Search by Topic</p>
+            <select id="topicFilterInput" style="width:90%" onchange="topicFilter()">
+                <option value="None" selected disabled>Select topic...</option>
+                <option value="Business">Business</option>
+                <option value="Database">Database</option>
+                <option value="Desktop">Desktop</option>
+                <option value="Drones">Drones</option>
+                <option value="IOT">IOT</option>
+                <option value="Library">Library</option>
+                <option value="Remote Sensing">Remote Sensing</option>
+                <option value="Server">Server</option>
+                <option value="Web Mapping">Web Mapping</option>
+                <option value="3D">3D</option>
+            </select>
+        </div>
+    </div>
+    <table id="masterTable">
+        <tr class="header">
+            <th style="width:8%;"></th>
+            <th style="width:5%;">ID</th>
+            <th style="width:10%;">Session</th>
+            <th style="width:32%;">Workshop</th>
+            <th style="width:30%;">Presenter(s)</th>
+            <th style="width:15%;">Topic</th>
+        </tr>
+        <tr>
+            <td><button id="100" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>100</td>
+            <td>Mon - All Day</td>
+            <td>Sales and Marketing 101 for FOSS4G Businesses: A workshop for Open Spatial IT Entrepreneurs</td>
+            <td>Steven Feldman - KnowWhere Consulting
+                <br/>Marc Vloemans
+            </td>
+            <td>Business</td>
+        </tr>
+        <tr>
+            <td><button id="101" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>101</td>
+            <td>Mon - AM</td>
+            <td>Real-time 3D visualization of geospatial data using Blender</td>
+            <td>Payam Tabrizian - NCSU CGA
+                <br/>Anna Petrasova - NCSU CGA
+                <br/>Vaclav Petras - NCSU CGA
+                <br/>Brendan Harmon - NCSU CGA
+                <br/>Helena Mitasova - NCSU CGA
+            </td>
+            <td>3D</td>
+        </tr>
+        <tr>
+            <td><button id="102" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>102</td>
+            <td>Mon - AM</td>
+            <td>Web 3D Geospatial Made Easy: An Introduction to Cesium</td>
+            <td>Rachel Hwang - AGI (Cesium Team) | University of Pennsylvania</td>
+            <td>3D</td>
+        </tr>
+        <tr>
+            <td><button id="103" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>103</td>
+            <td>Mon - AM</td>
+            <td>PostGIS and Spatial SQL for FOSS4G Rookies</td>
+            <td>Todd Barr</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="104" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>104</td>
+            <td>Mon - AM</td>
+            <td>Introduction to Spatial Algorithms</td>
+            <td>Christopher Barnett - Tufts University</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="105" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>105</td>
+            <td>Mon - AM</td>
+            <td>Geo with R? Yes We Can!</td>
+            <td>Tina Cormier - Woods Hole Research Center</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="106" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>106</td>
+            <td>Mon - AM</td>
+            <td>From WebODM to QGIS</td>
+            <td> Lene Fischer - University of Copenhagen
+                <br/>Bo Victor Thomsen - Municipality Frederikssund</td>
+            <td>Drones</td>
+        </tr>
+        <tr>
+            <td><button id="107" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>107</td>
+            <td>Mon - AM</td>
+            <td>OGC SensorThings API with GOST</td>
+            <td>Steven Ottens - Geodan
+                <br/>Bert Temme - Geodan
+            </td>
+            <td>IOT</td>
+        </tr>
+        <tr>
+            <td><button id="108" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>108</td>
+            <td>Mon - AM</td>
+            <td>Apache Solr Spatial Search</td>
+            <td>David Smiley</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="109" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>109</td>
+            <td>Mon - AM</td>
+            <td>Browser-based Geoprocessing with Turf.js and Leaflet</td>
+            <td>Numa Gremling - geoSYS
+                <br/>Martin Dresen - gis-trainer.com
+                <br/>Katrin Hannemann - gis-trainer.de
+            </td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="110" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>110</td>
+            <td>Mon - AM</td>
+            <td>Beginners guide to making your own web map with Leaflet and D3</td>
+            <td>Niene Boeijen - Maptime Amsterdam</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="111" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>111</td>
+            <td>Mon - AM</td>
+            <td>Building Standards Compliant Geospatial Web Applications - the Quick and Easy MapMint Way</td>
+            <td>Gérald Fenoy - GeoLabs SARL
+                <br/>Venkatesh Raghavan - OCU
+                <br/>Nicola Bozon - ESRI France
+            </td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="112" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>112</td>
+            <td>Mon - AM</td>
+            <td>From hours to seconds: Multi-dimensional indexing with GeoWave and HBase</td>
+            <td>Michael Whitby - DigitalGlobe/RadiantBlue
+                <br/>Rich Fecher - DigitalGlobe/RadiantBlue
+            </td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="113" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>113</td>
+            <td>Mon - AM</td>
+            <td>Real-time Collaborative Mapping with GIS Cloud</td>
+            <td>Dino Ravnić - GIS Cloud</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="201" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>201</td>
+            <td>Mon - PM</td>
+            <td>Use GDAL and PKTOOLS for raster operations</td>
+            <td>Giuseppe Amatulli - Yale University
+                <br/>Vaclav Petras - North Carolina State University
+            </td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="202" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>202</td>
+            <td>Mon - PM</td>
+            <td>Advanced Spatial Analysis with PostGIS</td>
+            <td>Pierre Racine - University Laval</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="203" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>203</td>
+            <td>Mon - PM</td>
+            <td>Breaking the 4th Dimension: Working with time in PostgreSQL and PostGIS</td>
+            <td>David Bitner - Boundless</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="204" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>204</td>
+            <td>Mon - PM</td>
+            <td>OSGeo-Live for Educators and Makers</td>
+            <td>Brian M Hamlin - OSGeo California Chapter</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="205" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>205</td>
+            <td>Mon - PM</td>
+            <td>Cartography with QGIS & Inkscape</td>
+            <td>Michele Tobias - UC Davis</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="206" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>206</td>
+            <td>Mon - PM</td>
+            <td>Introduction to QGIS Plugin Development</td>
+            <td>Marco Hugentobler - Sourcepole
+                <br/>Pirmin Kalberer - Sourcepole
+            </td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="207" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>207</td>
+            <td>Mon - PM</td>
+            <td>Mapping American Community Survey with R</td>
+            <td>Lee Hachadoorian - Temple University</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="208" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>208</td>
+            <td>Mon - PM</td>
+            <td>Field data collection in disconnected environments: Portable OpenStreetMap (POSM) from start to finish</td>
+            <td>Emily Eros - American Red Cross
+                <br/>Seth Fitzsimmons - Pacific Atlas</td>
+            <td>OSM</td>
+        </tr>
+        <tr>
+            <td><button id="209" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>209</td>
+            <td>Mon - PM</td>
+            <td>Classification of remote sensing images with the Orfeo ToolBox and QGIS</td>
+            <td>Manuel Grizonnet - CNES</td>
+            <td>Remote Sensing</td>
+        </tr>
+        <tr>
+            <td><button id="210" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>210</td>
+            <td>Mon - PM</td>
+            <td>Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js</td>
+            <td>Joey Lee</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="211" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>211</td>
+            <td>Mon - PM</td>
+            <td>Put your Geodata to Offline Native Mobile App</td>
+            <td>Jaak Laineste - CARTO</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="212" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>212</td>
+            <td>Mon - PM</td>
+            <td>Working with OpenLayers</td>
+            <td>Tim Schaub - Planet Labs
+                <br/>Andreas Hocevar - Boundless</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="213" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>213</td>
+            <td>Mon - PM</td>
+            <td>Mapping with D3</td>
+            <td>Mila Frerichs - Civic Vision</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="214" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>214</td>
+            <td>Mon - PM</td>
+            <td>GeoNode for Developers</td>
+            <td>Simone Dalmasso - European Commission JRC
+                <br/>Francesco Bartoli - Geobeyond
+                <br/>Ariel Nunez - Terranodo
+                <br/>Jeffrey Johnson - Terranodo
+                <br/>Angelos Tzotsos - OSGeo</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="301" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>300</td>
+            <td>Tues - All Day</td>
+            <td>Introduction to GIS Using QGIS</td>
+            <td>Frank Donnelly - Baruch College CUNY
+                <br/>Janine Billadello - Baruch College CUNY
+                <br/>Anastasia Clark - Baruch College CUNY</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="302" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>302</td>
+            <td>Tues - All Day</td>
+            <td>Building SDIs and GeoPortals with GeoNode and a Search Engine</td>
+            <td>Paolo Corti - CGA, Harvard University
+                <br/>Ben Lewis - CGA, Harvard University</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="303" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>303</td>
+            <td>Tues - AM</td>
+            <td>GeoSpatial outputs from flying robots: drone construction through photogrammetric alchemy</td>
+            <td>Stephen Mather - Cleveland Metroparks
+                <br/>Dakota Benjamin - Cleveland Metroparks
+                <br/>Tomas Holderness - MIT</td>
+            <td>Drones</td>
+        </tr>
+        <tr>
+            <td><button id="304" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>304</td>
+            <td>Tues - AM</td>
+            <td>pgRouting Workshop</td>
+            <td>Stephen Woodbridge - iMaptools.com</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="305" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>305</td>
+            <td>Tues - AM</td>
+            <td>Using GeoBlacklight for Geospatial Discovery</td>
+            <td>Darren Hardy - Stanford University
+                <br/>Jack Reed - Stanford University</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="306" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>306</td>
+            <td>Tues - AM</td>
+            <td>Hexbin Layers from Raster and Vector Sources with PostGIS</td>
+            <td>Dennis Bauszus - GEOLYTIX</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="307" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>307</td>
+            <td>Tues - AM</td>
+            <td>Introduction to using QGIS with Fulcrum</td>
+            <td>Randy Hale - North River Geographic Systems, Inc</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="308" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>308</td>
+            <td>Tues - AM</td>
+            <td>Analyzing Large Raster Data in a Jupyter Notebook with GeoPySpark on AWS</td>
+            <td>Rob Emanuele - Azavea</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="309" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>309</td>
+            <td>Tues - AM</td>
+            <td>Introduction to GeoTools</td>
+            <td>Ian Turton - Astun Technology Ltd
+                <br/>Jody Garnett - Boundless</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="310" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>310</td>
+            <td>Tues - AM</td>
+            <td>OGC Services in Action: an introduction with GeoServer</td>
+            <td>Andrea Aime - GeoSolutions</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="311" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>311</td>
+            <td>Tues - AM</td>
+            <td>GIS in the Cloud: Get your GIS API Online with Docker + ECS</td>
+            <td>Saul Farber - PeopleGIS, Inc.</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="312" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>312</td>
+            <td>Tues - AM</td>
+            <td>GeoServer & PostGIS in Containers and On Kubernetes</td>
+            <td>Steve Pousty - Red Hat</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="313" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>313</td>
+            <td>Tues - AM</td>
+            <td>From GRASS GIS Novice to Power User</td>
+            <td>Vaclav Petras - North Carolina State University
+                <br/>Giuseppe Amatulli - Yale University
+                <br/>Anna Petrasova - North Carolina State University</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="314" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>314</td>
+            <td>Tues - AM</td>
+            <td>Introduction to GeoNetwork</td>
+            <td>Antonio Cerciello - GeoCat
+                <br/>Jose Garcia - GeoCat
+                <br/>Juan Luis Rodríguez Ponce - GeoCat</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="401" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>401</td>
+            <td>Tues - PM</td>
+            <td>Metadata Creation for Geospatial Resources</td>
+            <td>Andrew Battista - New York University
+                <br/>Kim Durante - Stanford University
+                <br/>Melinda Kernik - University of Minnesota
+                <br/>Karen Majewicz - University of Minnesota</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="402" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>402</td>
+            <td>Tues - PM</td>
+            <td>Problem Solving with pgRouting</td>
+            <td>Leo Hsu and Regina Obe - Paragon Corporation</td>
+            <td>Database</td>
+        </tr>
+        <tr>
+            <td><button id="403" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>403</td>
+            <td>Tues - PM</td>
+            <td>Processing LIDAR and UAV Point Clouds in GRASS GIS</td>
+            <td>Vaclav Petras - North Carolina State University
+                <br/>Anna Petrasova - North Carolina State University
+                <br/>Helena Mitasova - North Carolina State University</td>
+            <td>Desktop</td>
+        </tr>
+        <tr>
+            <td><button id="404" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>404</td>
+            <td>Tues - PM</td>
+            <td>Growing a Geocoder: Sprout in Containers, Transplant to the Cloud</td>
+            <td>Diana Shkolnikov - Mapzen
+                <br/>Julian Simioni - Mapzen
+                <br/>Stephen Hess - Mapzen</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="405" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>405</td>
+            <td>Tues - PM</td>
+            <td>GeoTools DataStore Workshop</td>
+            <td>Jody Garnett - Boundless
+                <br/>Ian Turton, Astun Technology, ijturton@gmail.com</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="406" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>406</td>
+            <td>Tues - PM</td>
+            <td>ZOO-Project Introduction Workshop</td>
+            <td>GeoLabs SARL</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="407" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>407</td>
+            <td>Tues - PM</td>
+            <td>PyWPS-4</td>
+            <td>Jachym Cepicky</td>
+            <td>Library</td>
+        </tr>
+        <tr>
+            <td><button id="408" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>408</td>
+            <td>Tues - PM</td>
+            <td>Making a Complete WebGIS Application with GeoMoose 3.0</td>
+            <td>Dan "Ducky" Little</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="409" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>409</td>
+            <td>Tues - PM</td>
+            <td>Hexbin Data from PostGIS as Dynamic Multi-variate Themed Maps with Leaflet or OpenLayers on a Node.js Backend</td>
+            <td>Dennis Bauszus - GEOLYTIX</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="410" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>410</td>
+            <td>Tues - PM</td>
+            <td>Building on the Work of Giants: A Beginners Guide for Adding Functionality Using 3rd Party APIs</td>
+            <td>Will Breitkreutz - U.S. Army Corps of Engineers</td>
+            <td>Web Mapping</td>
+        </tr>
+        <tr>
+            <td><button id="411" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>411</td>
+            <td>Tues - PM</td>
+            <td>Enterprise class deployment for GeoServer and GeoWebcache: Optimizing Performances and Availability</td>
+            <td>Simone Giannecchini - GeoSolutions SAS
+                <br>Andrea Aime - GeoSolutions SAS</td>
+            <td>Server</td>
+        </tr>
+        <tr>
+            <td><button id="412" onClick="reply_click(this.id)">Sign up</button></td>
+            <td>412</td>
+            <td>Tues - PM</td>
+            <td>Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS</td>
+            <td>Sara Safavi - Boundless
+                <br/>Sasha Hart - Boundless</td>
+            <td>Desktop</td>
+        </tr>
+    </table>
+    <script>
+        function reply_click(clicked_id)
+        {
+            window.open(
+              'https://docs.google.com/forms/d/e/1FAIpQLScq40YPxnjW8Up0SAUhstozwqfFcnJdgbgTreWbYAesBFOKLA/viewform?entry.109657788=' + clicked_id + '&entry.664662615&entry.1211738297',
+              '_blank' // <- This is what makes it open in a new window.
+            );
+        }
+
+        function titleFilter() {
+            document.getElementById("timeFilterInput").value = "None";
+            document.getElementById("presenterFilterInput").value = "";
+            document.getElementById("topicFilterInput").value = "None";
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("titleFilterInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("masterTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[3];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        function presenterFilter() {
+            document.getElementById("timeFilterInput").value = "None";
+            document.getElementById("topicFilterInput").value = "None";
+            document.getElementById("titleFilterInput").value = "";
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("presenterFilterInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("masterTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[4];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        function timeFilter() {
+            document.getElementById("topicFilterInput").value = "None";
+            document.getElementById("presenterFilterInput").value = "";
+            document.getElementById("titleFilterInput").value = "";
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("timeFilterInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("masterTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[2];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        function topicFilter() {
+            document.getElementById("presenterFilterInput").value = "";
+            document.getElementById("timeFilterInput").value = "None";
+            document.getElementById("titleFilterInput").value = "";
+            var input, filter, table, tr, td, i;
+            input = document.getElementById("topicFilterInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("masterTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[5];
+                if (td) {
+                    if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
