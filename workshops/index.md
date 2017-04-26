@@ -14,9 +14,7 @@ ads: false
 
 ##### Harvard University, Cambridge, MA, USA
 
-<strong>Call for workshop instructors and content is now CLOSED. Thank you for all of your submissions!</strong>
-
-<a href="/workshop-signup" class="btn">Sign up for Workshops</a>
+<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
 
 Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
 
@@ -26,6 +24,8 @@ Workshop Plan | Early Bird | Regular | # Wrk Shops | Price / Wkshop Early Bird |
 Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
+
+**Call for workshop instructors is closed.**
 
 #### FOSS4G 2017 Conference Workshops
 
@@ -101,7 +101,7 @@ Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
 
-<a href="/workshop-signup" class="btn">Sign up for Workshops</a>
+<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
 
 Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
 
