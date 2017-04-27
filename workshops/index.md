@@ -14,9 +14,12 @@ ads: false
 
 ##### Harvard University, Cambridge, MA, USA
 
+<!-- hide this page until we send out the codes
 <a href="../workshop-signup" class="btn">Sign up for Workshops</a>
 
 Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
+-->
+
 
 #### Pricing and Sign Up
 
@@ -101,10 +104,13 @@ Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
 
+<!-- hide this page until we send out the codes
+
 <a href="../workshop-signup" class="btn">Sign up for Workshops</a>
 
 Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
 
+-->
 ## Workshop Details
 
 #### Workshop Description and Environment
