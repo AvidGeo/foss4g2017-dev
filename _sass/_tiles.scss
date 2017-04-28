@@ -153,6 +153,50 @@
     }
 }
 
+.speaker1-box {
+    @include outer-container;
+    margin-top: 24px;
+
+    .speaker1-name {
+        @include font-size(18,no);
+        margin-top: 6px;
+    }
+
+    .speaker1-excerpt {
+        @include font-size(14);
+        font-style: italic;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .speaker1-org {
+        @include font-size(14);
+        margin-top: 0;
+        font-family: "Open Sans Bold",Helvetica,Arial,Sans-Serif;
+        font-weight: bold;
+
+    }
+
+    .speaker1-modal-button {
+        @include font-size(14);
+        margin-top: 4px;
+        font-style: italic;
+        background-color: #4380c2;
+        font-weight: normal;
+        font-style: normal;
+        padding: 6px;
+        margin-top: 6px;
+        color: #fff;
+        border-radius: 4px;
+    }
+
+    .courtesy1 {
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-size: smaller;
+    }
+}
+
 .nice-person-box {
     margin-top: 6px;
     text-align: center;
