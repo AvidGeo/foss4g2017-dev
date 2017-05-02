@@ -14,14 +14,14 @@ ads: false
 
 ##### Harvard University, Cambridge, MA, USA
 
-<!-- hide this page until we send out the codes
-<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
-
-Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
--->
-
 
 #### Pricing and Sign Up
+
+<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
+
+In order to sign up for workshops, you must purchase workshop codes by registering **[here](../register)**. Once you have registered, your codes will be emailed to you and you will be able to sign up using the link above.
+
+Pricing for workshops is as follows:
 
 Workshop Plan | Early Bird | Regular | # Wrk Shops | Price / Wkshop Early Bird | Price / Wkshop Regular
 Four Workshops | $250 | $350 | 4 | $63 | $88
@@ -32,12 +32,12 @@ Single Workshop | $100 | $125 | 1 | $100 | $125
 
 #### FOSS4G 2017 Conference Workshops
 
-Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS.
+Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS. View the list of workshops **[here](../workshop-signup)**.
 
 ![Workshops](../images/vienna_code_sprint.jpg "Workshops")
 
-#### Workshop Program
 
+<!--
 We are excited for all of the incredible workshops at this year's event. The Workshop Committee is working diligently on scheduling and in early April there will be links to signup. The following is the current lineup:
 
 Workshop | Presenters & Affiliations | Topic
@@ -97,20 +97,15 @@ Sales and Marketing 101 for FOSS4G Businesses: A workshop for Open Spatial IT En
 Web 3D Geospatial Made Easy: An Introduction to Cesium | Rachel Hwang - AGI/University of Pennsylvania | 3D
 Real-time 3D visualization of geospatial data using Blender | Payam Tabrizian - North Carolina State University; Anna Petrasova - North Carolina State University; Vaclav Petras - North Carolina State University; Brendan Harmon - North Carolina State University; Helena Mitasova - North Carolina Sate University | 3D
 
+
 Pricing for workshops is as follows:
 
 Workshop Plan | Early Bird | Regular | # Wrk Shops | Price / Wkshop Early Bird | Price / Wkshop Regular
 Four Workshops | $250 | $350 | 4 | $63 | $88
 Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
 Single Workshop | $100 | $125 | 1 | $100 | $125
-
-<!-- hide this page until we send out the codes
-
-<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
-
-Note: Get Workshop Sign-up Codes from [Main Conference Registration Portal](http://2017.foss4g.org/register/)
-
 -->
+
 ## Workshop Details
 
 #### Workshop Description and Environment
@@ -120,6 +115,8 @@ Most workshops are half-day (4 hour) and all provide hands-on experiences with p
 All workshops will be BYOD (Bring Your Own Device). OSGeo Live USB sticks will be provided to all workshop participants.
 
 Instructors are strongly encouraged to develop material for attendees to take home with them, such as handouts, a workbook, CD-ROMs, etc.
+
+<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
 
 #### Important Dates
 
