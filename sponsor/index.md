@@ -13,7 +13,12 @@ Logo](../images/CGA_logo.jpg){: .logo} ![District Hall Logo](../images/sponsor_d
 Logo](../images/sponsor_respec_web.png){: .logo} ![AppGeo
 Logo](../images/sponsor_appgeo_web.jpg){: .logo} ![Sparkgeo
 Logo](../images/sponsor_sparkgeo_web.jpg){: .logo} ![Ptolemy
+<<<<<<< HEAD
 Logo](../images/sponsor_nlt_web.png){: .logo}
+=======
+Logo](../images/sponsor_nlt_web.png){: .logo} ![NBT
+Logo](../images/sponsor_nbt_web.png){: .logo}
+>>>>>>> 989a256c6d189e1b13d599d88a3a860696f673e1
 
 [Click here to become a sponsor](http://www.cvent.com/d/pvqgr8/4W){: .btn}
 
