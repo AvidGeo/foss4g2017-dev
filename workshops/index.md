@@ -24,9 +24,11 @@ In order to sign up for workshops, you must purchase workshop codes by registeri
 Pricing for workshops is as follows:
 
 Workshop Plan | Early Bird | Regular | # Wrk Shops | Price / Wkshop Early Bird | Price / Wkshop Regular
-Four Workshops | $250 | $350 | 4 | $63 | $88
-Two Workshops (any time) | $150 | $200 | 2 | $75 | $100
-Single Workshop | $100 | $125 | 1 | $100 | $125
+Four Workshops [16 hours] | $250 | $350 | 4 | $63 | $88
+Two Workshops* [8 hours] (any time) | $150 | $200 | 2 | $75 | $100
+Single Workshop [4 hours] | $100 | $125 | 1 | $100 | $125
+
+***Full Day (8 hours) workshops count as two workshops.**
 
 **Call for workshop instructors is closed.**
 
