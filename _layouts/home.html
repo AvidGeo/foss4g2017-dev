@@ -58,8 +58,8 @@
                     <br></br>
                     <p>
                       <strong>Check out the latest blog article</strong>
-                    {% for post in site.posts limit:1 %}
-                        <br /><a href="./blog">{{ post.title }}</a>
+                    {% for post in site.posts limit:2 %}
+                        <dl><dt><a href="./blog">{{ post.title }}</a></dt></dl>
                     {% endfor %}
                   </p>
 
