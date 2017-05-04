@@ -11,9 +11,13 @@ ads: false
 ---
 
 <h2>FOSS4G 2017 Workshop Lineup and Sign Up</h2>
+
 <p>Workshops are Monday, August 14 and Tuesday, August 15 at the Harvard Center for Geographic Analysis in Cambridge. Workshop signups require unique registration codes that will be emailed to you once you register on the <a href="../register/"><strong>main registration portal</strong>.</a></p>
-<p>Choose a workshop by finding it in the list below and clicking the “Sign up” button. Enter your registration code and email address to complete the process for each workshop. 4-hour workshops will require one registration code each while 8-hour workshops will require two.</p>
-<h5>Workshop Sign-Up Form &middot; <span><button onclick="location.reload();">Reset Filters</button></span></h5>
+
+<p>Choose a workshop by finding it in the list below and clicking the “Sign up” button. Enter your coupon code and email address to complete the process for each workshop. 4-hour workshops will require one registration code each while 8-hour workshops will require two. Registration codes for purchased workshop blocks are available at the <a href="../register/"><strong>main registration portal</strong>.</a></p>
+
+<p><strong>IMPORTANT NOTE: FULL DAY WORKSHOPS REQUIRE TWO SINGLE WORKSHOP CODES</strong></p>
+<h5>Workshop Sign-Up Form &middot; <span><button onclick="location.reload();">Clear Filters</button></span></h5>
 <div id="pickerFilterOptions">
   <div class="headerOptions" style="width: 25%">
     <p>Search by Workshop Title</p>
@@ -27,12 +31,12 @@ ads: false
     <p>Search by Session Time</p>
     <select id="timeFilterInput" style="width:90%" onchange="timeFilter()">
                 <option value="None" selected disabled>Session time...</option>
-                <option value="Monday<br />All Day">Mon- All Day</option>
-                <option value="Monday<br />AM">Monday<br />AM</option>
-                <option value="Monday<br />PM">Monday<br />PM</option>
-                <option value="Tuesday<br />All Day">Tuesday<br />All Day</option>
-                <option value="Tuesday<br />AM">Tuesday<br />AM</option>
-                <option value="Tuesday<br />PM">Tuesday<br />PM</option>
+                <option value="Monday - All Day">Mon - All Day</option>
+                <option value="Monday - AM">Monday AM</option>
+                <option value="Monday - PM">Monday PM</option>
+                <option value="Tuesday - All Day">Tuesday - All Day</option>
+                <option value="Tuesday - AM">Tuesday AM</option>
+                <option value="Tuesday - PM">Tuesday PM</option>
             </select>
   </div>
   <div class="headerOptions" style="width: 25%">
@@ -64,8 +68,7 @@ ads: false
   <tr>
     <td><button id="100" onClick="reply_click(this.id)">Sign up</button></td>
     <td>100</td>
-    <td>Monday
-      <A onClick="return alert('This session requires two workshop codes')"><br /><strong>All Day</strong></A>
+    <td>Monday - All Day</td>
     </td>
     <td><a href="#openModal-100" class="speaker-modal-button">Sales and Marketing 101 for FOSS4G Businesses: A workshop for Open Spatial IT Entrepreneurs</a></td>
     <td>Steven Feldman - KnowWhere Consulting
@@ -76,7 +79,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="101" onClick="reply_click(this.id)">Sign up</button></td>
     <td>101</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-101" class="speaker-modal-button">Real-time 3D visualization of geospatial data using Blender</a></td>
     <td>Payam Tabrizian - NCSU CGA
       <br/>Anna Petrasova - NCSU CGA
@@ -89,7 +92,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="102" onClick="reply_click(this.id)">Sign up</button></td>
     <td>102</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-102" class="speaker-modal-button">Web 3D Geospatial Made Easy: An Introduction to Cesium</a></td>
     <td>Rachel Hwang - AGI (Cesium Team) | University of Pennsylvania</td>
     <td>3D</td>
@@ -97,7 +100,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="103" onClick="reply_click(this.id)">Sign up</button></td>
     <td>103</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-103" class="speaker-modal-button">PostGIS and Spatial SQL for FOSS4G Rookies</a></td>
     <td>Todd Barr</td>
     <td>Database</td>
@@ -106,7 +109,7 @@ ads: false
 
     <td><button id="104" onClick="reply_click(this.id)">Sign up</button></td>
     <td>104</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-104" class="speaker-modal-button">Introduction to Spatial Algorithms</a></td>
     <td>Christopher Barnett - Tufts University</td>
     <td>Desktop</td>
@@ -115,7 +118,7 @@ ads: false
 
     <td><button id="105" onClick="reply_click(this.id)">Sign up</button></td>
     <td>105</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-105" class="speaker-modal-button">Geo with R? Yes We Can!</a></td>
     <td>Tina Cormier - Woods Hole Research Center</td>
     <td>Desktop</td>
@@ -124,7 +127,7 @@ ads: false
 
     <td><button id="106" onClick="reply_click(this.id)">Sign up</button></td>
     <td>106</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-106" class="speaker-modal-button">From WebODM to QGIS</a></td>
     <td> Lene Fischer - University of Copenhagen
       <br/>Bo Victor Thomsen - Municipality Frederikssund</td>
@@ -134,7 +137,7 @@ ads: false
 
     <td><button id="107" onClick="reply_click(this.id)">Sign up</button></td>
     <td>107</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-107" class="speaker-modal-button">OGC SensorThings API with GOST</a></td>
     <td>Steven Ottens - Geodan
       <br/>Bert Temme - Geodan
@@ -145,7 +148,7 @@ ads: false
 
     <td><button id="108" onClick="reply_click(this.id)">Sign up</button></td>
     <td>108</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-108" class="speaker-modal-button">Apache Solr Spatial Search</a></td>
     <td>David Smiley</td>
     <td>Server</td>
@@ -154,7 +157,7 @@ ads: false
 
     <td><button id="109" onClick="reply_click(this.id)">Sign up</button></td>
     <td>109</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-109" class="speaker-modal-button">Browser-based Geoprocessing with Turf.js and Leaflet</a></td>
     <td>Numa Gremling - geoSYS
       <br/>Martin Dresen - gis-trainer.com
@@ -166,7 +169,7 @@ ads: false
 
     <td><button id="110" onClick="reply_click(this.id)">Sign up</button></td>
     <td>110</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-110" class="speaker-modal-button">Beginners guide to making your own web map with Leaflet and D3</a></td>
     <td>Niene Boeijen - Maptime Amsterdam</td>
     <td>Web Mapping</td>
@@ -175,7 +178,7 @@ ads: false
 
     <td><button id="111" onClick="reply_click(this.id)">Sign up</button></td>
     <td>111</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-111" class="speaker-modal-button">Building Standards Compliant Geospatial Web Applications - the Quick and Easy MapMint Way</a></td>
     <td>Gérald Fenoy - GeoLabs SARL
       <br/>Venkatesh Raghavan - OCU
@@ -187,7 +190,7 @@ ads: false
 
     <td><button id="112" onClick="reply_click(this.id)">Sign up</button></td>
     <td>112</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-112" class="speaker-modal-button">From hours to seconds: Multi-dimensional indexing with GeoWave and HBase</a></td>
     <td>Michael Whitby - DigitalGlobe/RadiantBlue
       <br/>Rich Fecher - DigitalGlobe/RadiantBlue
@@ -198,7 +201,7 @@ ads: false
 
     <td><button id="113" onClick="reply_click(this.id)">Sign up</button></td>
     <td>113</td>
-    <td>Monday<br />AM</td>
+    <td>Monday - AM</td>
     <td><a href="#openModal-113" class="speaker-modal-button">Real-time Collaborative Mapping with GIS Cloud</a></td>
     <td>Dino Ravnić - GIS Cloud</td>
     <td>Web Mapping</td>
@@ -207,7 +210,7 @@ ads: false
 
     <td><button id="201" onClick="reply_click(this.id)">Sign up</button></td>
     <td>201</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-201" class="speaker-modal-button">Use GDAL and PKTOOLS for raster operations</a></td>
     <td>Giuseppe Amatulli - Yale University
       <br/>Vaclav Petras - North Carolina State University
@@ -218,7 +221,7 @@ ads: false
 
     <td><button id="202" onClick="reply_click(this.id)">Sign up</button></td>
     <td>202</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-202" class="speaker-modal-button">Advanced Spatial Analysis with PostGIS</a></td>
     <td>Pierre Racine - University Laval</td>
     <td>Database</td>
@@ -227,7 +230,7 @@ ads: false
 
     <td><button id="203" onClick="reply_click(this.id)">Sign up</button></td>
     <td>203</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-203" class="speaker-modal-button">Breaking the 4th Dimension: Working with time in PostgreSQL and PostGIS</a></td>
     <td>David Bitner - Boundless</td>
     <td>Database</td>
@@ -236,7 +239,7 @@ ads: false
 
     <td><button id="204" onClick="reply_click(this.id)">Sign up</button></td>
     <td>204</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-204" class="speaker-modal-button">OSGeo-Live for Educators and Makers</a></td>
     <td>Brian M Hamlin - OSGeo California Chapter</td>
     <td>Desktop</td>
@@ -245,7 +248,7 @@ ads: false
 
     <td><button id="205" onClick="reply_click(this.id)">Sign up</button></td>
     <td>205</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-205" class="speaker-modal-button">Cartography with QGIS & Inkscape</a></td>
     <td>Michele Tobias - UC Davis</td>
     <td>Desktop</td>
@@ -254,7 +257,7 @@ ads: false
 
     <td><button id="206" onClick="reply_click(this.id)">Sign up</button></td>
     <td>206</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-206" class="speaker-modal-button">Introduction to QGIS Plugin Development</a></td>
     <td>Marco Hugentobler - Sourcepole
       <br/>Pirmin Kalberer - Sourcepole
@@ -265,7 +268,7 @@ ads: false
 
     <td><button id="207" onClick="reply_click(this.id)">Sign up</button></td>
     <td>207</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-207" class="speaker-modal-button">Mapping American Community Survey with R</a></td>
     <td>Lee Hachadoorian - Temple University</td>
     <td>Desktop</td>
@@ -274,7 +277,7 @@ ads: false
 
     <td><button id="208" onClick="reply_click(this.id)">Sign up</button></td>
     <td>208</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-208" class="speaker-modal-button">Field data collection in disconnected environments: Portable OpenStreetMap (POSM) from start to finish</a></td>
     <td>Emily Eros - American Red Cross
       <br/>Seth Fitzsimmons - Pacific Atlas</td>
@@ -284,7 +287,7 @@ ads: false
 
     <td><button id="209" onClick="reply_click(this.id)">Sign up</button></td>
     <td>209</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-209" class="speaker-modal-button">Classification of remote sensing images with the Orfeo ToolBox and QGIS</a></td>
     <td>Manuel Grizonnet - CNES</td>
     <td>Remote Sensing</td>
@@ -293,7 +296,7 @@ ads: false
 
     <td><button id="210" onClick="reply_click(this.id)">Sign up</button></td>
     <td>210</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-210" class="speaker-modal-button">Slippy maps, you complete me: A friendly step-by-step guide to serving up your own slippy web map tiles with tilehut.js</a></td>
     <td>Joey Lee</td>
     <td>Web Mapping</td>
@@ -302,7 +305,7 @@ ads: false
 
     <td><button id="211" onClick="reply_click(this.id)">Sign up</button></td>
     <td>211</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-211" class="speaker-modal-button">Put your Geodata to Offline Native Mobile App</a></td>
     <td>Jaak Laineste - CARTO</td>
     <td>Web Mapping</td>
@@ -311,7 +314,7 @@ ads: false
 
     <td><button id="212" onClick="reply_click(this.id)">Sign up</button></td>
     <td>212</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-212" class="speaker-modal-button">Working with OpenLayers</a></td>
     <td>Tim Schaub - Planet Labs
       <br/>Andreas Hocevar - Boundless</td>
@@ -321,7 +324,7 @@ ads: false
 
     <td><button id="213" onClick="reply_click(this.id)">Sign up</button></td>
     <td>213</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-213" class="speaker-modal-button">Mapping with D3</a></td>
     <td>Mila Frerichs - Civic Vision</td>
     <td>Web Mapping</td>
@@ -330,7 +333,7 @@ ads: false
 
     <td><button id="214" onClick="reply_click(this.id)">Sign up</button></td>
     <td>214</td>
-    <td>Monday<br />PM</td>
+    <td>Monday - PM</td>
     <td><a href="#openModal-214" class="speaker-modal-button">GeoNode for Developers</a></td>
     <td>Simone Dalmasso - European Commission JRC
       <br/>Francesco Bartoli - Geobeyond
@@ -342,8 +345,7 @@ ads: false
   <tr>
     <td><button id="301" onClick="reply_click(this.id)">Sign up</button></td>
     <td>301</td>
-    <td>Tuesday<br />
-      <A onClick="return alert('This session requires two workshop codes')"><br /><strong>All Day</strong></A>
+    <td>Tuesday - All Day</A>
     </td>
     <td><a href="#openModal-301" class="speaker-modal-button">Introduction to GIS Using QGIS</a></td>
     <td>Frank Donnelly - Baruch College CUNY
@@ -354,8 +356,7 @@ ads: false
   <tr>
     <td><button id="302" onClick="reply_click(this.id)">Sign up</button></td>
     <td>302</td>
-    <td>Tuesday<br />
-      <A onClick="return alert('This session requires two workshop codes')"><br /><strong>All Day</strong></A>
+    <td>Tuesday - All Day</A>
     </td>
     <td><a href="#openModal-302" class="speaker-modal-button">Building SDIs and GeoPortals with GeoNode and a Search Engine</a></td>
     <td>Paolo Corti - CGA, Harvard University
@@ -365,7 +366,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="303" onClick="reply_click(this.id)">Sign up</button></td>
     <td>303</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-303" class="speaker-modal-button">GeoSpatial outputs from flying robots: drone construction through photogrammetric alchemy</a></td>
     <td>Stephen Mather - Cleveland Metroparks
       <br/>Dakota Benjamin - Cleveland Metroparks
@@ -375,7 +376,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="304" onClick="reply_click(this.id)">Sign up</button></td>
     <td>304</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-304" class="speaker-modal-button">pgRouting Workshop</a></td>
     <td>Stephen Woodbridge - iMaptools.com</td>
     <td>Database</td>
@@ -383,7 +384,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="305" onClick="reply_click(this.id)">Sign up</button></td>
     <td>305</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-305" class="speaker-modal-button">Using GeoBlacklight for Geospatial Discovery</a></td>
     <td>Darren Hardy - Stanford University
       <br/>Jack Reed - Stanford University</td>
@@ -392,7 +393,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="306" onClick="reply_click(this.id)">Sign up</button></td>
     <td>306</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-306" class="speaker-modal-button">Hexbin Layers from Raster and Vector Sources with PostGIS</a></td>
     <td>Dennis Bauszus - GEOLYTIX</td>
     <td>Database</td>
@@ -400,7 +401,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="307" onClick="reply_click(this.id)">Sign up</button></td>
     <td>307</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-307" class="speaker-modal-button">Introduction to using QGIS with Fulcrum</a></td>
     <td>Randy Hale - North River Geographic Systems, Inc</td>
     <td>Desktop</td>
@@ -408,7 +409,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="308" onClick="reply_click(this.id)">Sign up</button></td>
     <td>308</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-308" class="speaker-modal-button">Analyzing Large Raster Data in a Jupyter Notebook with GeoPySpark on AWS</a></td>
     <td>Rob Emanuele - Azavea</td>
     <td>Database</td>
@@ -416,7 +417,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="309" onClick="reply_click(this.id)">Sign up</button></td>
     <td>309</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-309" class="speaker-modal-button">Introduction to GeoTools</a></td>
     <td>Ian Turton - Astun Technology Ltd
       <br/>Jody Garnett - Boundless</td>
@@ -425,7 +426,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="310" onClick="reply_click(this.id)">Sign up</button></td>
     <td>310</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-310" class="speaker-modal-button">OGC Services in Action: an introduction with GeoServer</a></td>
     <td>Andrea Aime - GeoSolutions</td>
     <td>Server</td>
@@ -433,7 +434,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="311" onClick="reply_click(this.id)">Sign up</button></td>
     <td>311</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-311" class="speaker-modal-button">GIS in the Cloud: Get your GIS API Online with Docker + ECS</a></td>
     <td>Saul Farber - PeopleGIS, Inc.</td>
     <td>Server</td>
@@ -441,7 +442,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="312" onClick="reply_click(this.id)">Sign up</button></td>
     <td>312</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-312" class="speaker-modal-button">GeoServer & PostGIS in Containers and On Kubernetes</a></td>
     <td>Steve Pousty - Red Hat</td>
     <td>Server</td>
@@ -449,7 +450,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="313" onClick="reply_click(this.id)">Sign up</button></td>
     <td>313</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-313" class="speaker-modal-button">From GRASS GIS Novice to Power User</a></td>
     <td>Vaclav Petras - North Carolina State University
       <br/>Giuseppe Amatulli - Yale University
@@ -459,7 +460,7 @@ ads: false
   <tr style='background-color:#a6cee3'>
     <td><button id="314" onClick="reply_click(this.id)">Sign up</button></td>
     <td>314</td>
-    <td>Tuesday<br />AM</td>
+    <td>Tuesday - AM</td>
     <td><a href="#openModal-314" class="speaker-modal-button">Introduction to GeoNetwork</a></td>
     <td>Antonio Cerciello - GeoCat
       <br/>Jose Garcia - GeoCat
@@ -469,7 +470,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="401" onClick="reply_click(this.id)">Sign up</button></td>
     <td>401</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-401" class="speaker-modal-button">Metadata Creation for Geospatial Resources</a></td>
     <td>Andrew Battista - New York University
       <br/>Kim Durante - Stanford University
@@ -480,7 +481,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="402" onClick="reply_click(this.id)">Sign up</button></td>
     <td>402</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-402" class="speaker-modal-button">Problem Solving with pgRouting</a></td>
     <td>Leo Hsu and Regina Obe - Paragon Corporation</td>
     <td>Database</td>
@@ -488,7 +489,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="403" onClick="reply_click(this.id)">Sign up</button></td>
     <td>403</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-403" class="speaker-modal-button">Processing LIDAR and UAV Point Clouds in GRASS GIS</a></td>
     <td>Vaclav Petras - North Carolina State University
       <br/>Anna Petrasova - North Carolina State University
@@ -498,7 +499,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="404" onClick="reply_click(this.id)">Sign up</button></td>
     <td>404</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-404" class="speaker-modal-button">Growing a Geocoder: Sprout in Containers, Transplant to the Cloud</a></td>
     <td>Diana Shkolnikov - Mapzen
       <br/>Julian Simioni - Mapzen
@@ -508,7 +509,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="405" onClick="reply_click(this.id)">Sign up</button></td>
     <td>405</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-405" class="speaker-modal-button">GeoTools DataStore Workshop</a></td>
     <td>Jody Garnett - Boundless
       <br/>Ian Turton, Astun Technology, ijturton@gmail.com</td>
@@ -517,7 +518,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="406" onClick="reply_click(this.id)">Sign up</button></td>
     <td>406</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-406" class="speaker-modal-button">ZOO-Project Introduction Workshop</a></td>
     <td>GeoLabs SARL</td>
     <td>Library</td>
@@ -525,7 +526,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="407" onClick="reply_click(this.id)">Sign up</button></td>
     <td>407</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-407" class="speaker-modal-button">PyWPS-4</a></td>
     <td>Jachym Cepicky</td>
     <td>Library</td>
@@ -533,7 +534,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="408" onClick="reply_click(this.id)">Sign up</button></td>
     <td>408</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-408" class="speaker-modal-button">Making a Complete WebGIS Application with GeoMoose 3.0</a></td>
     <td>Dan "Ducky" Little</td>
     <td>Server</td>
@@ -541,7 +542,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="409" onClick="reply_click(this.id)">Sign up</button></td>
     <td>409</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-409" class="speaker-modal-button">Hexbin Data from PostGIS as Dynamic Multi-variate Themed Maps with Leaflet or OpenLayers on a Node.js Backend</a></td>
     <td>Dennis Bauszus - GEOLYTIX</td>
     <td>Web Mapping</td>
@@ -549,7 +550,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="410" onClick="reply_click(this.id)">Sign up</button></td>
     <td>410</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-410" class="speaker-modal-button">Building on the Work of Giants: A Beginners Guide for Adding Functionality Using 3rd Party APIs</a></td>
     <td>Will Breitkreutz - U.S. Army Corps of Engineers</td>
     <td>Web Mapping</td>
@@ -557,7 +558,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="411" onClick="reply_click(this.id)">Sign up</button></td>
     <td>411</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-411" class="speaker-modal-button">Enterprise class deployment for GeoServer and GeoWebcache: Optimizing Performances and Availability</a></td>
     <td>Simone Giannecchini - GeoSolutions SAS
       <br>Andrea Aime - GeoSolutions SAS</td>
@@ -566,7 +567,7 @@ ads: false
   <tr style='background-color:#b2df8a'>
     <td><button id="412" onClick="reply_click(this.id)">Sign up</button></td>
     <td>412</td>
-    <td>Tuesday<br />PM</td>
+    <td>Tuesday - PM</td>
     <td><a href="#openModal-412" class="speaker-modal-button">Hands on with GDAL/OGR: a Gentle Introduction to Command Line GIS</a></td>
     <td>Sara Safavi - Boundless
       <br/>Sasha Hart - Boundless</td>
