@@ -8,7 +8,8 @@ image:
 # A Meaningful Opportunity
 
 ![Digital Globe Logo](../images/sponsor_digitalglobe_web.png){: .logo}![Fulcrum Logo](../images/sponsor_fulcrum_web.png){: .logo} ![GIS Cloud Logo](../images/sponsor_gis_cloud_web.png){: .logo} ![Google Logo](../images/sponsor_google_web.png){: .logo} ![Boundless Logo](../images/sponsor_boundless_web.png){: .logo} ![GEOCAT Logo](../images/sponsor_geocat_web.png){: .logo} ![OSGeo Logo](../images/sponsor_osgeo_web.png){: .logo}  ![Cesium Logo](../images/sponsor_cesium_web.png){: .logo} ![LocationTech Logo](../images/sponsor_locationtech_web.png){: .logo} ![Red Hat OpenShift Logo](../images/sponsor_redhat_web.png){: .logo} ![Azavea Logo](../images/sponsor_azavea_web.png){: .logo} ![CARTO Logo](../images/sponsor_carto_web.png){: .logo} ![Skyhook Logo](../images/sponsor_skyhook_web.png){: .logo} ![Planet Logo](../images/sponsor_planet_web.png){: .logo} ![Melown Logo](../images/sponsor_melown_web.png){: .logo} ![CCRi
-Logo](../images/sponsor_CCRi.png){: .logo} ![CGA
+Logo](../images/sponsor_CCRi.png){: .logo} ![Esri
+Logo](../images/sponsor_esri_web.png){: .logo} ![CGA
 Logo](../images/CGA_logo.jpg){: .logo} ![District Hall Logo](../images/sponsor_district_hall_web.png){: .logo} ![Safe Software Logo](../images/sponsor_safe_web.png){: .logo} ![GeoSolutions Logo](../images/sponsor_geosolutions_web.png){: .logo} ![Blue Marble Logo](../images/sponsor_bluemarble.png){: .logo} ![Sourcepole Logo](../images/sponsor_sourcepole_web.png){: .logo} ![Gaia3d Logo](../images/sponsor_gaia3d_web.png){: .logo} ![CampToCamp Logo](../images/sponsor_camp.png){: .logo} ![RESPEC
 Logo](../images/sponsor_respec_web.png){: .logo} ![AppGeo
 Logo](../images/sponsor_appgeo_web.jpg){: .logo} ![Sparkgeo
