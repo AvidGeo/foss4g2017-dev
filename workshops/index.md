@@ -36,7 +36,10 @@ Single Workshop<br>[4 hours] | $100 | $125 | 1 | $100 | $125
 
 #### FOSS4G 2017 Conference Workshops
 
-Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS. View the list of workshops **[here](../workshop-signup)**.
+Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS.
+
+<!-- View the list of workshops **[here](../workshop-signup)**.
+-->
 
 ![Workshops](../images/vienna_code_sprint.jpg "Workshops")
 
