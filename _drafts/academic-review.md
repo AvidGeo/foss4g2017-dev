@@ -26,7 +26,7 @@ There were 49 academic abstracts amongst the 416 all-conference submissions, and
 
 The FOSS4G 2017 Academic Committee developed a set of criteria for assessing the academic abstracts, and three committee members were assigned to review each one based on their areas of expertise, with no identifying information included.
 
-The reviewers evaluated their assigned abstracts along six components from 1 (worst) to 5 (best):
+The reviewers evaluated their assigned abstracts along five components from 1 (worst) to 5 (best):
 
 - Originality
 - Technical Quality
@@ -66,9 +66,11 @@ There were 27 abstracts that were “Borderline Accept” or better, meaning a c
 
 The next group of abstracts were considered for posters in the same way, with 9 that were “Accept as Poster” or better. Consideration of the components and reviewer comments led to the acceptance of one “Borderline Reject +” as a poster, and rejecting one “Accept as Poster –”, along with the remaining five abstracts.
 
+The Academic submissions were also reviewed by the [Program Committee](http://2017.foss4g.org/about/#bloc) and were also voted on by the Community, sometimes with different results reflecting the perspectives and interests of these more diverse groups. When a paper was accepted for a regular oral presentation, the academic submitters were notified of this and were provided with the opportunity to withdraw from the Academic Program with its requirement for an academic paper or poster.
+
 ## In Conclusion
 
-We deeply appreciate all volunteers and reviewers for their time and effort for arranging and undertaking this review. We also thank all of those who took the time to submit an abstract. Of course, no process is free from false negatives and the process we describe above is no exception. We understand that a few abstract submitters will be upset with their result, but we hope the above explains that we did our best to run a selection process that was unbiased, fair, used peer-review expertise, and was systematic in its selection. This was no easy task on our end, and we do believe that the FOSS4G community will support the decisions at this stage, as well in later stages when we review the submitted, accepted papers in June.
+We deeply appreciate all those who took the time to submit an abstract for consideration by the Academic Committee, and all of the reviewers for their time and effort for arranging and undertaking this review. Of course, no process is free from false negatives and the process we describe above is no exception. We understand that a few abstract submitters will be upset with their result, but we hope the above explains that we did our best to run a selection process that was unbiased, fair, used peer-review expertise, and was systematic in its selection. This was no easy task on our end, and we do believe that the FOSS4G community will support the decisions at this stage, as well in later stages when we review the submitted, accepted papers in June.
 
 ## Contact information
 
