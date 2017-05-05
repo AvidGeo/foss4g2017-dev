@@ -14,21 +14,21 @@ ads: false
 
 ##### Harvard University, Cambridge, MA, USA
 
-
 #### Pricing and Sign Up
 
-<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
+{:style="display:flex;justify-content:center;align-items:center;"}
+[Sign up for Workshops](../workshop-signup){:.btn}
 
 In order to sign up for workshops, you must purchase workshop codes by registering **[here](../register)**. Once you have registered, your codes will be emailed to you and you will be able to sign up using the link above.
 
 Pricing for workshops is as follows:
 
 Workshop Plan | Early Bird | Regular | # Wrk Shops | Price / Wkshop Early Bird | Price / Wkshop Regular
-Four Workshops [16 hours] | $250 | $350 | 4 | $63 | $88
-Two Workshops* [8 hours] (any time) | $150 | $200 | 2 | $75 | $100
-Single Workshop [4 hours] | $100 | $125 | 1 | $100 | $125
+Four Workshops<br>[16 hours] | $250 | $350 | 4 | $63 | $88
+Two Workshops<br>[8 hours - any time] | $150 | $200 | 2 | $75 | $100
+Single Workshop<br>[4 hours] | $100 | $125 | 1 | $100 | $125
 
-***Full Day (8 hours) workshops count as two workshops.**
+**Full Day (8 hours) workshops count as two workshops.**
 
 **Call for workshop instructors is closed.**
 
@@ -37,7 +37,6 @@ Single Workshop [4 hours] | $100 | $125 | 1 | $100 | $125
 Workshops are an important and popular part of FOSS4G, and this year they will take place during the two days before the conference on <strong>Monday, August 14 and Tuesday, August 15</strong>. The workshops will be held at Harvard University’s Center for Geographic Analysis (CGA). The workshops will be run by experienced members of the open source community, and sometimes by the open source project developers themselves. This makes the workshops a great opportunity to advance your skills or take your first steps into the world of Open Source GIS. View the list of workshops **[here](../workshop-signup)**.
 
 ![Workshops](../images/vienna_code_sprint.jpg "Workshops")
-
 
 <!--
 We are excited for all of the incredible workshops at this year's event. The Workshop Committee is working diligently on scheduling and in early April there will be links to signup. The following is the current lineup:
@@ -118,14 +117,17 @@ All workshops will be BYOD (Bring Your Own Device). OSGeo Live USB sticks will b
 
 Instructors are strongly encouraged to develop material for attendees to take home with them, such as handouts, a workbook, CD-ROMs, etc.
 
-<a href="../workshop-signup" class="btn">Sign up for Workshops</a>
+{:style="display:flex;justify-content:center;align-items:center;"}
+[Sign up for Workshops](../workshop-signup){:.btn}
 
+<!--
 #### Important Dates
 
-Event | Date
------ | ----
-Call for Workshops Announced | January 21, 2017
-Call for Workshops Closed | March 13, 2017
-Workshop Selections Announced | March 27, 2017
-Detailed Workshop Program | April 3, 2017
-Workshops Take Place at Harvard | August 14/15, 2017
+| Event                           | Date               |
+| ------------------------------- | ------------------ |
+| Call for Workshops Announced    | January 21, 2017   |
+| Call for Workshops Closed       | March 13, 2017     |
+| Workshop Selections Announced   | March 27, 2017     |
+| Detailed Workshop Program       | April 3, 2017      |
+| Workshops Take Place at Harvard | August 14/15, 2017 |
+-->
