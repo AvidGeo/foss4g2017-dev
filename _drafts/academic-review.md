@@ -68,7 +68,7 @@ The next group of abstracts were considered for posters in the same way, with 9 
 
 ## In Conclusion
 
-We deeply appreciate all volunteers and reviewers for their time and effort for arranging and undertaking this review. Of course, no process is free from false negatives and the process we describe above is no exception. We understand that a few abstract submitters will be upset with their result, but we hope the above explains that we did our best to run a selection process that was unbiased, fair, used peer-review expertise, and was systematic in its selection. This was no easy task on our end, and we do believe that the FOSS4G community will support the decisions at this stage, as well in later stages when we review the submitted, accepted papers in June.
+We deeply appreciate all volunteers and reviewers for their time and effort for arranging and undertaking this review. We also thank all of those who took the time to submit an abstract. Of course, no process is free from false negatives and the process we describe above is no exception. We understand that a few abstract submitters will be upset with their result, but we hope the above explains that we did our best to run a selection process that was unbiased, fair, used peer-review expertise, and was systematic in its selection. This was no easy task on our end, and we do believe that the FOSS4G community will support the decisions at this stage, as well in later stages when we review the submitted, accepted papers in June.
 
 ## Contact information
 
