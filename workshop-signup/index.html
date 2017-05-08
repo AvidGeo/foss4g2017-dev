@@ -279,7 +279,7 @@ ads: false
     <td>208</td>
     <td>Monday - PM</td>
     <td><a href="#openModal-208" class="speaker-modal-button">Field data collection in disconnected environments: Portable OpenStreetMap (POSM) from start to finish</a></td>
-    <td>Emily Eros - American Red Cross
+    <td>Dan Joseph - American Red Cross
       <br/>Seth Fitzsimmons - Pacific Atlas</td>
     <td>OSM</td>
   </tr>
@@ -652,26 +652,17 @@ ads: false
   <div>
     <a href="#close" title="Close" class="close">X</a>
     <h4>Geo with R? Yes We Can!</h4>
-    <p><strong>Description:</strong><br />R is a powerful open source software environment and programming language most widely known for statistical computing, beautiful and fully customizable graphics, and mind-bending flexibility. In recent years, a surge in the development of geospatial
-      packages has enabled R to become a fully functional command line GIS as well. Traditionally used by scientists, statisticians, and students, a new door has opened for geospatial analysts – that door leads down a path of compelling, reproducible
-      analyses and visualizations all generated within one application, which also happens to play nicely with other popular open source tools, like QGIS.</p>
+    <p><strong>Description:</strong><br />R is a powerful open source software environment and programming language most widely known for statistical computing, beautiful and fully customizable graphics, and mind-bending flexibility. In recent years, a surge in the development of geospatial packages has enabled R to become a fully functional command line GIS as well. Traditionally used by scientists, statisticians, and students, a new door has opened for geospatial analysts – that door leads down a path of compelling, reproducible analyses and visualizations all generated within one application, which also happens to play nicely with other popular open source tools, like QGIS and PostgreSQL/PostGIS.</p>
     <p>In this introductory workshop, participants will discover the excitement of solving common geospatial puzzles with R. Hands-on exercises will concentrate on several focal areas:</p>
     <ul>
-      <li> Learning basic programming structures and syntax in R.</li>
+      <li>Learning basic programming structures and syntax in R.</li>
       <li>Gaining familiarity with the most common geo packages.</li>
       <li>Understanding how to access, preprocess, explore, and analyze spatial data (e.g., projections, clipping, intersecting, joining, etc.) in R.</li>
       <li>Got rasters? No problem! Remote sensing in R.</li>
       <li>Spatial statistics – finding patterns, modeling, etc.</li>
       <li>Visualization and maps</li>
-      <li>Extras if time:</li>
-      <ul>
-        <li>Integration of R and QGIS (a two-way street!)</li>
-        <li>Web maps</li>
-        <li>Big data and parallel processing</li>
-      </ul>
     </ul>
-    <p>By the end of the workshop, participants can expect to have the skills necessary to complete several common geoprocessing tasks, explore data structure and uncover patterns, and visualize their data and results. Most of all, they will leave with a
-      sense of what is possible and resources for advancing their skills.</p>
+    <p>By the end of the workshop, participants can expect to have the skills necessary to complete several common geoprocessing tasks, explore data structure and uncover patterns, and visualize their data and results. Most of all, they will leave with a sense of what is possible and resources for advancing their skills.<br />Ideally, participants will have at least basic experience with scripting or command line tools, though highly self-motivated beginners could also benefit from this workshop.</p>
       <p><strong>Presenters:</strong><br />Tina A. Cormier, Woods Hole Research Center</p>
       <p><button id="m105" onclick="reply_click(105)">Sign up</button></p>
   </div>
@@ -787,10 +778,9 @@ ads: false
   <div>
     <a href="#close" title="Close" class="close">X</a>
     <h4>Use GDAL and PKTOOLS for raster operations</h4>
-    <p><strong>Description:</strong><br />GDAL and PKTOOLS are fantastic commands line utilities used mainly for raster manipulation and analysis. In this workshop we will explain the main principle and philosophy about these tools by showing simple geodata processing for raster cropping
-      and reprojection, image masking, spatial and temporal/spectral filtering and image classification. We expect basic knowledge of command line (any language is fine) and a general knowhow of geospatial data processing.</p>
-      <p><strong>Presenters:</strong><br />Giuseppe Amatulli - Yale University  ; Vaclav Petras - North Carolina State University  </p>
-      <p><button id="m201" onclick="reply_click(306)">Sign up</button></p>
+    <p><strong>Description:</strong><br />GDAL and PKTOOLS are powerful commands line utilities mainly used for raster manipulation and analysis. In this workshop we will explain the main principle and philosophy about these tools by showing simple geodata processing for raster cropping and reprojection, image masking, spatial and temporal/spectral filtering as well as image classification. We will also have the opportunity to use Amazon cloud to perform high performance computation for image mosaicking and temporal spline. We will explain how to maximize computational implementation and process raster data more efficiently by building up routines that allow to save temporary rasters outputs in the RAM and use VRT files for tiling operation in a multicore environment. We expect basic command line knowledge (any language is fine) and a general knowhow of geospatial data processing. Participants should bring laptops with GDAL and PKTOOLS (info at <a href="https://goo.gl/pzsDTo">https://goo.gl/pzsDTo</a>) already installed and their favorite text editor. We will use SSH tunnel to connect to Amazon OSGeo-Live virtual machine. Beginners may consider using the latest OSGeo-Live virtual machine.</p>
+      <p><strong>Presenters:</strong><br />Giuseppe Amatulli - Yale University</p>
+      <p><button id="m201" onclick="reply_click(201)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-202" class="modalDialog">
@@ -803,7 +793,7 @@ ads: false
     <p>We will assume that you have PostgreSQL (9.6 and up), PgAdmin and PostGIS (2.3.x) as well as OpenJump installed and running on your laptop BEFORE the beginning of the session. We will not cover installation and configuration. Only funny SQL jargon!
       Make also sure you can execute shp2pgsql from your command line window and to give at least 2048M of RAM to OpenJump with the -Xmx option in the oj_linux.sh or the oj_windows.bat launching script (newest versions of OpenJump do not need this setting).</p>
       <p><strong>Presenters:</strong><br />Pierre Racine, University Laval</p>
-      <p><button id="m202" onclick="reply_click(201)">Sign up</button></p>
+      <p><button id="m202" onclick="reply_click(202)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-203" class="modalDialog">
@@ -816,7 +806,7 @@ ads: false
     <p>This talk will also dive into the use of linear referencing for exploring data such as track data.</p>
     <p>Finally this talk will touch on the use of advanced PostgreSQL topics such as using windowing functions and how they can be used to find information such as speed or direction along a track.</p>
     <p><strong>Presenters:</strong><br />David Bitner - Boundless </p>
-    <p><button id="m203" onclick="reply_click(202)">Sign up</button></p>
+    <p><button id="m203" onclick="reply_click(203)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-204" class="modalDialog">
@@ -825,7 +815,7 @@ ads: false
     <h4>OSGeo-Live for Educators and Makers</h4>
     <p><strong>Description:</strong><br />Learn about the breadth and depth of documentation readily available on OSGeo-Live for classroom use, learn about programming using the Jupyter Notebook environment, and finally, develop a small project with peers.</p>
     <p><strong>Presenters:</strong><br />Brian M Hamlin, OSGeo California Chapter</p>
-    <p><button id="m204" onclick="reply_click(203)">Sign up</button></p>
+    <p><button id="m204" onclick="reply_click(204)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-205" class="modalDialog">
@@ -835,7 +825,7 @@ ads: false
       leave with a clear understanding of how to use Inkscape to refine static cartographic works started in QGIS. This workshop will give participants hands-on experience with the workflow presented at the 2016 FOSS4G North America meeting for using
       QGIS-generated SVG files in Inkscape, including how to build a basic map in QGIS, import it into Inkscape, and work with tools such as fonts, design elements, and alignment tools, to make a map that is truly their own style.</p>
       <p><strong>Presenters:</strong><br />Michele Tobias - UC Davis </p>
-      <p><button id="m205" onclick="reply_click(204)">Sign up</button></p>
+      <p><button id="m205" onclick="reply_click(205)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-206" class="modalDialog">
@@ -844,7 +834,7 @@ ads: false
     <p><strong>Description:</strong><br />Writing QGIS plugins opens up huge opportunities to extend the functionality of QGIS with own ideas. This workshop shows the basic steps of writing a plugin with python. The participants will be familiar with the nessecary tools and the most important
       information sources. We will work with the current QGIS version 2.18 and give an outlook what needs to be considered when writing plugins for future 3.x versions of QGIS.</p>
       <p><strong>Presenters:</strong><br />Marco Hugentobler - Sourcepole , Pirmin Kalberer - Sourcepole </p>
-      <p><button id="m206" onclick="reply_click(205)">Sign up</button></p>
+      <p><button id="m206" onclick="reply_click(206)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-207" class="modalDialog">
@@ -856,7 +846,7 @@ ads: false
       will be demonstrated in a Linux environment. <br /> <br /> Attendees will be introduced to different levels of Census geography, identifying data of interest, and mapping it in R. They will also learn how to combine Census data with other data of
       interest. The workshop will use US county-level presidential election data as a case study. However, attendees are encouraged to bring other data (preferably county-level as well) that they are interested in mapping.</p>
       <p><strong>Presenters:</strong><br />Lee Hachadoorian, Temple University</p>
-      <p><button id="m207" onclick="reply_click(206)">Sign up</button></p>
+      <p><button id="m207" onclick="reply_click(207)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-208" class="modalDialog">
@@ -869,8 +859,8 @@ ads: false
       participants to POSM and its potential uses, but to give them hands-on experience assembling, configuring, and using the device and the tools that it supports. We will cover the complete workflow for offline OSM editing, mobile data collection using
       POSM, and data cleaning and synchronization required at project completion. <br /> <br /> By the end of the workshop, participants will feel comfortable with the process for setting up and conducting an offline data collection project. This is a
       beginner-friendly session but we will also dive into more advanced questions and topics as time and audience allows. <br /> </p>
-      <p><strong>Presenters:</strong><br />Emily Eros - American Red Cross ; Seth Fitzsimmons - Pacific Atlas </p>
-      <p><button id="m208" onclick="reply_click(207)">Sign up</button></p>
+      <p><strong>Presenters:</strong><br />Dan Joseph - American Red Cross ; Seth Fitzsimmons - Pacific Atlas </p>
+      <p><button id="m208" onclick="reply_click(208)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-209" class="modalDialog">
@@ -882,7 +872,7 @@ ads: false
       it is expected that the participants will be able to perform the full classification framework with Orfeo ToolBox and QGIS on their own data. <br /> <br /> After attending this tutorial, participants will also be able to discover and use other tools
       from the toolkit on their own (such as remote sensing preprocessing or segmentation). <br /> <br /> [1] https://www.orfeo-toolbox.org/ <br /> [2] http://qgis.org/fr/site/ <br /> [3] http://www.cesbio.ups-tlse.fr/multitemp/?p=6382</p>
       <p><strong>Presenters:</strong><br />Manuel Grizonnet - CNES </p>
-      <p><button id="m209" onclick="reply_click(208)">Sign up</button></p>
+      <p><button id="m209" onclick="reply_click(209)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-210" class="modalDialog">
@@ -893,7 +883,7 @@ ads: false
       your own map tiles - we will focus on vector tiles, 2. create your own map tile server to show the world your geodata creations and 3. see how to bring your tiles into your web mapping projects. Participants will leave the workshop with a workflow
       for going from A (raw data) to B (an interactive web map) that they can apply in their own projects in the future.</p>
       <p><strong>Presenters:</strong><br />Joey Lee</p>
-      <p><button id="m210" onclick="reply_click(209)">Sign up</button></p>
+      <p><button id="m210" onclick="reply_click(210)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-211" class="modalDialog">
@@ -903,7 +893,7 @@ ads: false
       development from basic "hello world" for Android, then outline CARTO open source mobile SDK capabilities for GIS field with practical demo with "Bring your own data" approach. We'll show some advanced tricks for map data interactions, and participants
       will learn how to make it all work offline. <br /> <br /> This workshop is based on Android Java platform, same mobile SDK and API is available also for iOS and Xamarin/.NET platforms.</p>
       <p><strong>Presenters:</strong><br />Jaak Laineste, CARTO , </p>
-      <p><button id="m211" onclick="reply_click(210)">Sign up</button></p>
+      <p><button id="m211" onclick="reply_click(211)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-212" class="modalDialog">
@@ -913,7 +903,7 @@ ads: false
       deep dive of the library, featuring topics such as vector tiles, dynamic data rendering, interactivity, and styling. We'll guide you through best practices with the library, instruct on how you can import just the parts of the library your application
       needs, and demonstrate bundling your application together with the library using tools like Webpack, Rollup, and Browserify.</p>
       <p><strong>Presenters:</strong><br />Tim Schaub - Planet Labs , Andreas Hocevar - Boundless </p>
-      <p><button id="m212" onclick="reply_click(211)">Sign up</button></p>
+      <p><button id="m212" onclick="reply_click(212)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-213" class="modalDialog">
@@ -923,7 +913,7 @@ ads: false
       minimal looking maps with or without basemaps but still have interactivity and the ability to zoom will create nice looking maps. <br /> <br /> The goal of the session is to provide the participants with the tools and the knowledge to create interactive
       choropleth maps from geo- and topojson files. They will also be introduced to the base concepts of d3.</p>
       <p><strong>Presenters:</strong><br />Mila Frerichs - Civic Vision </p>
-      <p><button id="m213" onclick="reply_click(212)">Sign up</button></p>
+      <p><button id="m213" onclick="reply_click(213)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-214" class="modalDialog">
@@ -931,18 +921,13 @@ ads: false
     <h4>GeoNode for developers</h4>
     <p><strong>Description:</strong><br />Learn from the core devs how to effectively work on GeoNode, from changing the look and feel to adding new apps, models and API. This workshop will also teach how to move from development to production and contribute to GeoNode.</p>
     <p><strong>Presenters:</strong><br />Simone Dalmasso - European Commission JRC, Francesco Bartoli - Geobeyond, Ariel Nunez - Terranodo, Jeffrey Johnson - Terranodo, Angelos Tzotsos - OSGeo</p>
-    <p><button id="m214" onclick="reply_click(213)">Sign up</button></p>
+    <p><button id="m214" onclick="reply_click(214)">Sign up</button></p>
   </div>
 </div>
 <div id="openModal-303" class="modalDialog">
   <div><a href="#close" title="Close" class="close">X</a>
     <h4>GeoSpatial outputs from flying robots: drone construction through photogrammetric alchemy</h4>
-    <p><strong>Description:</strong><br />OpenDroneMap is free and open source photogrammetry toolkit targeted at low flying aircraft imagery processing. OpenDroneMap has made great strides in the last few years toward feature parity with closed-source commercial software. New advancements
-      this year are moving beyond feature parity into implementation state-of-the-art algorithms, processing workflows, and the real promise of FOSS photogrammetry -- massive scaling potential. <br /> <br /> This workshop is a combined software / hardware
-      hacking session. As such, the first half of the session will be focused on the construction of an inexpensive but professional quality drone for mapping. The drone will be capable of being manually controlled or fully auto-piloted. As a class, will
-      do a single demonstration build, but participants are encouraged to bring their own drone parts and questions. A parts build list will be distributed to participants prior to the workshop. <br /> <br /> The second half of the session will focus
-      on software processing of images from the drone in order to make usable as geospatial datasets. We'll take users through installation and use of OpenDroneMap, WebODM, and the processing of datasets, settings, and options therein, and discuss and
-      demonstrate options for hosted and scalable OpenDroneMap solutions.</p>
+    <p><strong>Description:</strong><br />OpenDroneMap is  free and open source photogrammetry toolkit targeted at lo flying aircraft imagery processing. OpenDroneMap has made great strides in the last few years toward feature parity with closed-source commercial software. New advancements this year are moving beyond feature parity into implentation state-of-the-art algorithms, processing workflows, and the real promise of FOSS photogrammetry -- massive scaling potential.<br />This workshop is a combined software / hardware hacking session. As such, the first half of the day is focused on the construction of an inexpensive but professional quality drone for mapping. The drone will be capable of being manually controlled or fully auto-piloted. As a class, will do a single demonstration build, but participants are encouraged to bring their own drone parts. A build parts list will be distributed to participants prior to the workshop.<br />The second half of the day focuses on software processing of images from the drone in order to make usable as geospatial datasets. We'll take users through installation and use of OpenDroneMap, WebODM, and the processing of datasets, settings, and options therein, and discuss and demonstrate options for hosted and scalable OpenDroneMap solutions.</p>
       <p><strong>Presenters:</strong><br />Stephen Mather, Cleveland Metroparks; Dakota Benjamin, Cleveland Metroparks; Tomas Holderness, MIT</p>
       <p><button id="m303" onclick="reply_click(303)">Sign up</button></p>
   </div>
@@ -1069,11 +1054,18 @@ ads: false
 <div id="openModal-301" class="modalDialog">
   <div><a href="#close" title="Close" class="close">X</a>
     <h4>Introduction to GIS Using QGIS</h4>
-    <p><strong>Description:</strong><br />Do you have a research question that you'd like to envision geographically? Maybe you'd like to study neighborhoods and businesses to target a market. Or perhaps you want to visualize the distribution of education, employment, or resources across
-      the country or around the world. Have you ever wanted to add a map to your presentations or reports, but couldn't find one that suits your needs? <br /> <br /> This workshop introduces participants to geographic information systems (GIS) as a concept
-      for envisioning information and as a tool for conducting geographic analyses and creating maps. Participants will learn how to navigate a GIS interface, how to prepare map layers and conduct a basic geographic analysis, and how to create thematic
-      maps using the open source software QGIS. <br /> <br /> Geospatial Data Librarian Frank Donnelly has run this workshop over the past 7 years and has introduced GIS to over 350 people at the City University of New York. The accompanying tutorial
-      manual that covers all of the content and exercises in the session has been downloaded thousands of times, and is freely available at: https://www.baruch.cuny.edu/confluence/display/geoportal/GIS+Practicum. <br /> </p>
+    <p><strong>Description:</strong><br />If you are attending FOSS4G because you're excited about the possibilities of learning about mapping and spatial analysis, but you have limited or no experience with using geographic information systems or working with spatial data, then this is the perfect workshop for you! In one day we'll cover all the basics of desktop GIS, so that you'll be able to walk away from this session ready to work on your own projects.<br />This session introduces participants to GIS as a concept for envisioning information and as a tool for conducting geographic analyses and creating maps. Participants will learn about spatial data, how to navigate a GIS interface, how to prepare map layers and conduct a basic geographic analysis, and how to create thematic maps using the free and open source software QGIS.<br />This workshop is designed for absolute GIS newbies, but you must have your basic computer skills in place: you should know your laptop inside and out, be able to effortlessly navigate your computer's file and folder systems, and be able to keep a steady pace as we move through the exercises. Everyone will be given a PDF of our workbook manual, which you can refer back to in your future endeavours. We will be using the latest Long Term Release (LTR) of QGIS, which you must download and install prior to workshop day.<br />Objectives -- Participants will learn to:<br/>
+    <ul>
+      <li>Add data to GIS software and navigate a GIS interface</li>
+      <li>Perform basic geoprocessing operations for preparing vector GIS data</li>
+      <li>Convert text-based data to a GIS data format</li>
+      <li>Conduct geographic analyses using standard GIS tools and vector data</li>
+      <li>Create thematic maps using the principles of map projections, data classification, and symbolization</li>
+      <li>Locate GIS data on the web and consider the merits of different data sources</li>
+      <li>Demonstrate competency with a specific GIS package (QGIS)</li>
+      <li>Identify additional GIS topics for future study</li>
+    </ul>
+    </p>
       <p><strong>Presenters:</strong><br />Frank Donnelly (Geospatial Data Librarian, Baruch College CUNY:, Janine Billadello (Baruch College, Anastasia Clark (Baruch College CUNY:</p>
       <p><button id="m301" onclick="reply_click(301)">Sign up</button></p>
   </div>
