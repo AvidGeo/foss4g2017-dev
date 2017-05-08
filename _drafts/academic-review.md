@@ -7,7 +7,7 @@ excerpt:
 tags: []
 date: 2017-05-01
 author:
-  name: Mohammed Zia
+  name: Charlie Schweik & Mohammed Zia
 image:
   feature: boston-map.png
 ---
