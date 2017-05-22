@@ -1,9 +1,14 @@
 # Site navigation links
 
 
+- title: Home
+  url: ../
+  excerpt: "View welcome videos, keynote speakers, and sponsors"
+  image: 400x250.png
+
 - title: Register
   url: /register/
-  excerpt: "Early Bird Registration is now open"
+  excerpt: "Register for the conference"
   image: 400x250.png
 
 - title: Program
