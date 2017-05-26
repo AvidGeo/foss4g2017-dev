@@ -647,19 +647,48 @@ strong {
 }
 
 .district {
-    background-color: powderblue;
+    background-color: darkseagreen;
 }
 
 .social {
-    background-color: lightsalmon;
+    background-color: lightgreen;
 }
 
 .seaport {
-    background-color: darkseagreen;
+    background-color: #ef755a;
+}
+
+.workshop {
+    background-color: lightblue;
+}
+
+.lunch {
+    background-color: #6d9eeb;
+}
+
+.break {
+    background-color: #76a5af;
+}
+
+.colo {
+    background-color: #f6b26b;
+}
+
+.keynote {
+    background-color: #ffe599;
+}
+
+.session {
+    background-color: #a2c4c9;
+}
+
+.end {
+    background-color: lightgray;
 }
 
 #overview {
     text-align: center;
+    color: black;
     padding: 0;
     margin: 0;
     border: 0;
@@ -681,12 +710,20 @@ strong {
     border-left: solid black 1px;
 }
 
+#overview .leftb {
+    border-left: solid black 2px;
+}
+
 #overview .bottom {
     border-bottom: solid black 1px;
 }
 
 #overview .right {
     border-right: solid black 1px;
+}
+
+#overview .rightb {
+    border-right: solid black 2px;
 }
 
 .cost_table {
