@@ -16,7 +16,7 @@ image:
 
 ### Basic Considerations
 
-There are many considerations that went into the Program Committee’s decisions about which abstracts to accept for this year’s conference, as described [previously](/program/abstract-review/) by FOSS4G ’17 Conference Chair Michael Terner. The most basic one, of course, is that we could only select roughly 250 oral presentations and 50 posters out of the 424 abstracts submitted, due to space and time constraints. But beyond that we wanted a quality program that was comprehensive with respect to the many applications of FOSS4G, and that reflected the diversity of people in our Community: from users to developers, from the renowned to the lesser-known, from business to government to the academy, and from North America to the rest of the world.
+There are many considerations that went into the Program Committee’s decisions about which abstracts to accept for this year’s conference, as described [previously](../program/abstract-review/) by FOSS4G ’17 Conference Chair Michael Terner. The most basic one, of course, is that we could only select roughly 250 oral presentations and 50 posters out of the 424 abstracts submitted, due to space and time constraints. But beyond that we wanted a quality program that was comprehensive with respect to the many applications of FOSS4G, and that reflected the diversity of people in our Community: from users to developers, from the renowned to the lesser-known, from business to government to the academy, and from North America to the rest of the world.
 
 The selection process for oral presentations therefore proceeded in multiple rounds, producing 251 acceptances over a five-week period from March 22 to April 28:
 
@@ -43,13 +43,13 @@ Many of the readers of this post probably took part in Community Voting, where a
 
 An interesting way of looking at the presentations is to scale their total Community ranking to a Z score = _(ranking – mean)/stdDev_, which has a mean of zero and a standard deviation of one, and plot a histogram:
 
-![FOSS4G Presentation Abstracts: Community Rankings](/images/image1_blog.png/){: .not}
+![FOSS4G Presentation Abstracts: Community Rankings](../images/image1_blog.png/){: .not}
 
 The accepted presentations had a Z score of 1.08 or higher, in other words they were more than one standard deviation above the mean. The skew to the left indicates a diversity of interest in many talks that received relatively low scores.
 
 #### 3. Academic papers
 
-The Academic Committee had their own selection process that had the additional consideration of whether the abstract would result in a good research paper. As described in a [previous blog post](/program/academic-review/), they accepted 30 presentations from the 49 academic abstracts submitted. Because this process occurred in parallel with the Program Committee and Community Voting, which reviewed all submissions, a number of the accepted academic presentations had the option of giving a regular oral presentation instead, and two submitters chose to take that route.
+The Academic Committee had their own selection process that had the additional consideration of whether the abstract would result in a good research paper. As described in a [previous blog post](../program/academic-review/), they accepted 30 presentations from the 49 academic abstracts submitted. Because this process occurred in parallel with the Program Committee and Community Voting, which reviewed all submissions, a number of the accepted academic presentations had the option of giving a regular oral presentation instead, and two submitters chose to take that route.
 
 #### 4. Methodical middle
 
@@ -69,11 +69,11 @@ The Program Committee developed a review and scoring system that considered the 
 
 Each reviewer scored the abstracts on these characteristics, as consistently as possible so that their total score could be used to compare one talk with another. But even though there was a common understanding of these characteristics, each reviewer still had their own standards, with some being more generous than others and having higher mean scores. If a Z score is calculated for each reviewer’s set of evaluations, the variation of the distributions is noticeable:
 
-![FOSS4G Presentation Abstracts: Program Committee Review](/images/image2_blog.png/){: .not}
+![FOSS4G Presentation Abstracts: Program Committee Review](../images/image2_blog.png/){: .not}
 
 Because the Z scores place the reviewers on a more uniform foundation they can be averaged to produce a useful metric for comparing the presentations. The average Program Committee ranking can then be graphed together with the Community ranking for comparison. The former reveals a more positive skew, probably due to a more inclusive perspective on which topics should be included in the conference.
 
-![FOSS4G Presentation Abstracts](/images/image3_blog.png/){: .not}
+![FOSS4G Presentation Abstracts](../images/image3_blog.png/){: .not}
 
 The Committee agreed to use the average Z score as a ranking metric to choose the middle portion of the presentations, and another 90 received the nod that ranged in Z from 0.1 to 1.3.  In order to include as many voices as possible, we excluded from this group additional presentations from previously accepted speakers, as well as some from already-represented organizations that we didn’t feel were distinct enough.
 
@@ -96,7 +96,7 @@ Finally, the Program Committee analyzed the distribution of speakers to ensure t
 | Europe     | 25.7% : 28.7%                |
 | North America | 61.8% : 58.3%             |
 
-![Origins of Accepted Presenters](/images/image4_blog.png/){: .not}
+![Origins of Accepted Presenters](../images/image4_blog.png/){: .not}
 
 We also checked up on [conference sponsors](http://2017.foss4g.org/#sponsors) to see if they had at least one accepted presentation, which they all already did. In this final round another 25 presentations were accepted.
 
@@ -118,10 +118,10 @@ Relatively few abstracts were rejected outright. Of these, several were duplicat
 
 The overall process can be visualized in this histogram of the number of presentations of each type according to their scaled ranking (Z score):
 
-![FOSS4G Presentation Abstracts: Program Committee Review Summary](/images/image5_blog.png/){: .not}
+![FOSS4G Presentation Abstracts: Program Committee Review Summary](../images/image5_blog.png/){: .not}
 
 As we hope you will agree, the Program Committee took great care to use an even-handed approach that fairly represented the many technologies and people that make up the FOSS4G community. With such a wealth of quality submissions and a limited amount of time and space to present them all, accepting only a fraction was a necessary but difficult task. It was also one that we found to be both interesting and rewarding, and we are very proud of the result. We greatly appreciate the many people who took the time to submit their abstracts.
 
-We invite everyone to Boston in August for an awesome FOSS4G! You can learn more about the accepted presentations [here](/accepted-presentations/).
+We invite everyone to Boston in August for an awesome FOSS4G! You can learn more about the accepted presentations [here](../accepted-presentations/).
 
 _(NB: Since finalizing these results, a few of the accepted presentations were withdrawn due to authors not being able to attend, and a few have changed categories, e.g. from oral presentation to poster. Additional changes will undoubtedly be forthcoming. Therefore, the final numbers in the program will differ somewhat from the snapshot presented above.)_
