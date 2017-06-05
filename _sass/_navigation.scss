@@ -18,10 +18,12 @@ li a {
 .dropdown:hover .dropbtn,
 li a:hover {
     background-color: #d3d3d3;
+    z-index: 9999;
 }
 
 li.dropdown {
     display: inline-block;
+    z-index: 9999
 }
 
 .dropdown-content {
@@ -50,6 +52,7 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
     display: block;
+    z-index: 9999;
 }
 
 #top-nav {
