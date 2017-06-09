@@ -71,7 +71,21 @@ The conference will be held at the [Seaport Hotel & World Trade Center](http://w
 
 A room block has been reserved for event participants at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com). The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
 
-[Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn}
+[Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn style="text-decoration:line-through;"} <mark>The Seaport Hotel & World Trade Center room block is FULL.</mark>
+
+#### Other Nearby Hotels
+
+- [Renaissance Boston Waterfront](http://www.marriott.com/hotels/travel/boswf-renaissance-boston-waterfront-hotel/)
+
+- [Westin Boston Waterfront](http://www.westinbostonwaterfront.com/?EM=EM_aa_Google_My_Business__WI_1528__NAD_FM&SWAQ=94Z388)
+
+- [Aloft Boston Seaport](http://www.aloftbostonseaport.com/?EM=EM_aa_Google_My_Business__AL_4142__NAD_FM&SWAQ=94Z701)
+
+- [Element Boston Seaport](http://www.elementbostonseaport.com/?EM=EM_aa_Google_My_Business__EL_4143__NAD_FM&SWAQ=94Z702)
+
+- [The Envoy Hotel](http://theenvoyhotel.com/)
+
+- [Yotel](http://www.yotel.com/en/hotels/yotel-boston)
 
 # Extracurriculars
 
