@@ -75,17 +75,17 @@ A room block has been reserved for event participants at the [Seaport Hotel & Wo
 
 #### Other Nearby Hotels
 
-- [Renaissance Boston Waterfront](http://www.marriott.com/hotels/travel/boswf-renaissance-boston-waterfront-hotel/)
+- [Renaissance Boston Waterfront](http://www.marriott.com/hotels/travel/boswf-renaissance-boston-waterfront-hotel/){:target="_blank"}
 
-- [Westin Boston Waterfront](http://www.westinbostonwaterfront.com/?EM=EM_aa_Google_My_Business__WI_1528__NAD_FM&SWAQ=94Z388)
+- [Westin Boston Waterfront](http://www.westinbostonwaterfront.com/?EM=EM_aa_Google_My_Business__WI_1528__NAD_FM&SWAQ=94Z388){:target="_blank"}
 
-- [Aloft Boston Seaport](http://www.aloftbostonseaport.com/?EM=EM_aa_Google_My_Business__AL_4142__NAD_FM&SWAQ=94Z701)
+- [Aloft Boston Seaport](http://www.aloftbostonseaport.com/?EM=EM_aa_Google_My_Business__AL_4142__NAD_FM&SWAQ=94Z701){:target="_blank"}
 
-- [Element Boston Seaport](http://www.elementbostonseaport.com/?EM=EM_aa_Google_My_Business__EL_4143__NAD_FM&SWAQ=94Z702)
+- [Element Boston Seaport](http://www.elementbostonseaport.com/?EM=EM_aa_Google_My_Business__EL_4143__NAD_FM&SWAQ=94Z702){:target="_blank"}
 
-- [The Envoy Hotel](http://theenvoyhotel.com/)
+- [The Envoy Hotel](http://theenvoyhotel.com/){:target="_blank"}
 
-- [Yotel](http://www.yotel.com/en/hotels/yotel-boston)
+- [Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank"}
 
 # Extracurriculars
 
