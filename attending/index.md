@@ -89,11 +89,13 @@ A room block has been reserved for event participants at the [Seaport Hotel & Wo
 
 - [The Envoy Hotel](http://theenvoyhotel.com/){:target="_blank"}
 
-- [Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank"}
+- [Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}
 
 # Extracurriculars
 
 ### Welcome Social - Tuesday, August 15th - Harpoon Brewery
+
+<p align="center" style="background-color:yellow;"><strong>Harpoon Brewery Tickets are <strong style="color:red;">SOLD OUT</strong> as of May 16th 2017</strong></p>
 
 ![Harpoon Brewery](../images/extracurricular/harpoon_brewery.jpg "Harpoon Brewery") By John Phelan - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=18498782>
 
