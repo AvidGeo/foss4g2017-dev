@@ -60,6 +60,10 @@ outdoor:
 
 The conference will be held at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com) in the Boston [Seaport District](https://www.bostonusa.com/about-boston/boston-neighborhoods/seaport-district). Workshops will be hosted by [The Center for Geographic Analysis at Harvard University](http://gis.harvard.edu/) in neighboring Cambridge, MA.
 
+To travel to the Workshops from the Seaport, we suggest taking the [MBTA Red Line](https://www.google.com/maps/dir/Seaport+Hotel+%26+World+Trade+Center,+Seaport+Lane,+Boston,+MA/Cgis+Knafel,+1737+Cambridge+St,+Cambridge,+MA+02138/@42.3614064,-71.0971916,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89e3707897da486f:0x33bdef927d376f5b!2m2!1d-71.0404886!2d42.351369!1m5!1m1!1s0x89e37744241b934f:0x70603c849cad1301!2m2!1d-71.1132356!2d42.375638!3e3)
+
+If you are flying into Logan Airport, we suggest taking the [MBTA Silver Line](https://www.google.com/maps/dir/Logan+Airport,+Boston,+MA/Seaport+Hotel+%26+World+Trade+Center,+Seaport+Lane,+Boston,+MA/@42.3582862,-71.0353684,15z/data=!3m2!4b1!5s0x89e3707856a80993:0x77b7ec9a7b4713e8!4m14!4m13!1m5!1m1!1s0x89e37014d5da4937:0xc9394c31f2d5144!2m2!1d-71.0095602!2d42.3656132!1m5!1m1!1s0x89e3707897da486f:0x33bdef927d376f5b!2m2!1d-71.0404886!2d42.351369!3e3) to the Conference Hotel. Service is FREE *from* the airport.
+
 # Who's Attending?
 
 #### Origins of Conference Attendees
