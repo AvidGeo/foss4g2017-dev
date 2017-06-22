@@ -73,9 +73,13 @@ If you are flying into Logan Airport, we suggest taking the [MBTA Silver Line](h
 # Lodging
 ![Seaport Hotel](../images/venue_hotel.jpg "Seaport Hotel"){: .not}
 
-A room block has been reserved for event participants at the [Seaport Hotel & World Trade Center](http://www.seaportboston.com). The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
+A room block has been reserved for event participants at the **[Seaport Hotel & World Trade Center](http://www.seaportboston.com)**. The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
 
-[Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn style="text-decoration:line-through;"} <mark>The Seaport Hotel & World Trade Center room block is FULL.</mark>
+[Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn style="text-decoration:line-through; background-color:gray;"} <mark>The Seaport Hotel & World Trade Center room block is FULL.</mark>
+
+A room block has been reserved at **[Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}**, the overflow hotel. The discount rate for conference attendees is $239.00 + tax (14.45%) per room per night.
+
+[Reserve a room in the block](https://gc.synxis.com/rez.aspx?Hotel=76937&Chain=17799&template=YOBOS1&group=1708OSGEOF){: .btn style="background-color:gray;"}
 
 #### Other Nearby Hotels
 
@@ -87,9 +91,7 @@ A room block has been reserved for event participants at the [Seaport Hotel & Wo
 
 - [Element Boston Seaport](http://www.elementbostonseaport.com/?EM=EM_aa_Google_My_Business__EL_4143__NAD_FM&SWAQ=94Z702){:target="_blank"}
 
-- [The Envoy Hotel](http://theenvoyhotel.com/){:target="_blank"}
-
-- [Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}
+- [The Envoy Hotel](http://theenvoyhotel.com/){:target="_blank_"}
 
 # Extracurriculars
 
