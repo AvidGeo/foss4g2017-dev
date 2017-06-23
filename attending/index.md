@@ -71,15 +71,18 @@ If you are flying into Logan Airport, we suggest taking the [MBTA Silver Line](h
 <iframe width="65%" height="350" frameborder="0" src="https://atardif.carto.com/builder/8e388472-1954-11e7-9086-0e3ebc282e83/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 # Lodging
+
+![Yotel Boston](../images/overflow_hotel.jpg "Yotel Boston"){: .not}
+
+**[Yotel Boston](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}** is a short 3 block walk to the Seaport World Trade Center venue. A room block has been reserved as the overflow hotel for FOSS4G 2017. The discount rate for conference attendees is $239.00 + tax (14.45%) per room per night.
+
+[Reserve a room in the block](https://gc.synxis.com/rez.aspx?Hotel=76937&Chain=17799&template=YOBOS1&group=1708OSGEOF){: .btn style="background-color:gray;"}
+
 ![Seaport Hotel](../images/venue_hotel.jpg "Seaport Hotel"){: .not}
 
 A room block has been reserved for event participants at the **[Seaport Hotel & World Trade Center](http://www.seaportboston.com)**. The discount block rate for conference attendees is $259.00 + tax (14.45%) + Hotel Fee ($1.00) & Service fee ($2.00) per room per night if registered by July 24, 2017 or until the block is full.
 
 [Reserve a room in the block](http://reservations.travelclick.com/131437?groupID=1616128){: .btn style="text-decoration:line-through; background-color:gray;"} <mark>The Seaport Hotel & World Trade Center room block is FULL.</mark>
-
-A room block has been reserved at **[Yotel](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}**, the overflow hotel. The discount rate for conference attendees is $239.00 + tax (14.45%) per room per night.
-
-[Reserve a room in the block](https://gc.synxis.com/rez.aspx?Hotel=76937&Chain=17799&template=YOBOS1&group=1708OSGEOF){: .btn style="background-color:gray;"}
 
 #### Other Nearby Hotels
 
