@@ -72,7 +72,7 @@ If you are flying into Logan Airport, we suggest taking the [MBTA Silver Line](h
 
 # Lodging
 
-![Yotel Boston](../images/overflow_hotel.jpg "Yotel Boston"){: .not}
+![Yotel Boston]({{ site.baseurl }}/images/yotel_hotel.jpg "Yotel Boston"){: .not}
 
 **[Yotel Boston](http://www.yotel.com/en/hotels/yotel-boston){:target="_blank_"}** is a short 3 block walk to the Seaport World Trade Center venue. A room block has been reserved as the overflow hotel for FOSS4G 2017. The discount rate for conference attendees is $239.00 + tax (14.45%) per room per night.
 
