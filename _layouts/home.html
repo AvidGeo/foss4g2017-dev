@@ -40,16 +40,11 @@
                 <div class="feature-inner feature-main welcome-dates">
                     <!-- <p style="margin-bottom: 6px">Help select main conference presentations!</p> -->
 
-                    <p style=" margin-top: 8px; margin-bottom: 2px;"><strong><a style="color:red;" href="../volunteer">Apply to Volunteer</a></strong></p>
                     <h2 id="head-feature" style="padding:2px;">Key Dates</h2>
                     <table id="welcome-table">
                         <tr>
                             <th>Date</th>
                             <th class="second-col">Milestone</th>
-                        </tr>
-                        <tr>
-                            <td>June 27</td>
-                            <td class="second-col">Volunteer Application Closes</td>
                         </tr>
                         <tr>
                             <td>July 7</td>
@@ -67,7 +62,7 @@
                     <br></br>
                     <p>
                       <strong>Check out the latest blog article</strong>
-                    {% for post in site.posts limit:1 %}
+                    {% for post in site.posts limit:2 %}
                         <dl><dt><a href="./blog">{{ post.title }}</a></dt></dl>
                     {% endfor %}
                   </p>
