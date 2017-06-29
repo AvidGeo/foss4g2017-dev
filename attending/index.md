@@ -104,13 +104,13 @@ A room block has been reserved for event participants at the **[Seaport Hotel & 
 
 ![Harpoon Brewery](../images/extracurricular/harpoon_brewery.jpg "Harpoon Brewery") By John Phelan - Own work, CC BY-SA 3.0, <https://commons.wikimedia.org/w/index.php?curid=18498782>
 
-The Icebreaker will take place Tuesday, August 15th at the [Harpoon Brewery](http://www.harpoonbrewery.com/). Try local beers and ciders in the beer hall accompanied by handmade freshly baked pretzels cooked in beer and served with warm dipping sauces. Participants can take a walkthrough of the brewery as well. See [What's on tap](http://www.harpoonbrewery.com/breweries/boston/whats-on-tap)!
+The Welcome Social will take place Tuesday, August 15th at the [Harpoon Brewery](http://www.harpoonbrewery.com/). Try local beers and ciders in the beer hall accompanied by handmade freshly baked pretzels cooked in beer and served with warm dipping sauces. Participants can take a walkthrough of the brewery as well. See [What's on tap](http://www.harpoonbrewery.com/breweries/boston/whats-on-tap)!
 
 ### Icebreaker - Wednesday August 16th - Conference Venue
 
 ![World Trade Center](../images/extracurricular/world_trade_center_from_water.jpg "World Trade Center")
 
-The Welcome Social will take place Wednesday, August 16th at the conference venue overlooking beautiful Boston Harbor. Get to know your fellow conference goers from around the world!
+The Ice Breaker will take place Wednesday, August 16th at the conference venue overlooking beautiful Boston Harbor. Get to know your fellow conference goers from around the world!
 
 ### Gala - Thursday August 17th - New England Aquarium
 
