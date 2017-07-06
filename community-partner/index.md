@@ -7,7 +7,7 @@ image:
 
 # Let's Build Community Together
 
-![URISA Logo](../images/partner_urisa_web.png){: .logo} ![PostgreSQL Logo](../images/partner_postgres_web.png){: .logo} ![NEARC Logo](../images/partner_nearc_web.jpg){: .logo}
+![URISA Logo](../images/partner_urisa_web.png){: .logo} ![PostgreSQL Logo](../images/partner_postgres_web.png){: .logo} ![NEARC Logo](../images/partner_nearc_web.jpg){: .logo} ![Public Lab Logo](../images/partner_publiclab_web.png){: .logo}
 
 Email <a style="text-decoration:underline;" href="mailto:foss4g2017@gmail.com">foss4g2017@gmail.com</a> if you are interested in applying.
 
