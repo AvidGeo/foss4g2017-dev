@@ -16,7 +16,7 @@ In an effort to grow and welcome a larger community on behalf of OSGeo, FOSS4G B
 -   **1 exhibitor pass** (access is limited to the exhibit hall)
 -   **Recognition on the [FOSS4G homepage](<{{ site.baseurl }}/#sponsors>){:style="text-decoration:underline;"} as a Community Partner**
 
-In return we are asking for your help in promoting [The OSGeo Community](http://www.osgeo.org){:style="text-decoration:underline;"} and the [FOSS4G Events](http://www.foss4g.org){:style="text-decoration:underline;"} on your website and/or at your events.
+In return we are asking for your help in promoting [The OSGeo Community](http://www.osgeo.org){:style="text-decoration:underline;"} and [FOSS4G Events](http://www.foss4g.org){:style="text-decoration:underline;"} through your community.
 
 This opportunity is limited to **8** non-profit organizations.
 
