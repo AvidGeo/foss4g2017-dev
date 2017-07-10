@@ -18,6 +18,6 @@ In an effort to grow and welcome a larger community on behalf of OSGeo, FOSS4G B
 
 In return we are asking for your help in promoting [The OSGeo Community](http://www.osgeo.org){:style="text-decoration:underline;"} and the [FOSS4G Events](http://www.foss4g.org){:style="text-decoration:underline;"} on your website and/or at your events.
 
-This is opportunity limited to **8** non-profit organizations.
+This opportunity is limited to **8** non-profit organizations.
 
 If you are interested in applying, please email <mailto:foss4g2017@gmail.com>{:style="text-decoration:underline;"}
