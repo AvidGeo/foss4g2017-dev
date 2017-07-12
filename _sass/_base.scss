@@ -361,6 +361,13 @@ figcaption {
     height: 200px;
     margin-bottom: 5px;
 }
+
+.img-circle2 {
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    margin-bottom: 5px;
+}
 /* Fix IE9 SVG bug */
 svg:not(:root) {
     overflow: hidden;
