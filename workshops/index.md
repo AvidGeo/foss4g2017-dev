@@ -17,9 +17,11 @@ ads: false
 #### Pricing and Sign Up
 
 {:style="display:flex;justify-content:center;align-items:center;"}
-[View Workshops](../workshop-signup){:.btn}
+[Sign up for available Workshops](../workshop-signup){:.btn}
 
-In order to sign up for workshops, you must purchase workshop codes by registering **[here](../register)**. Once you have registered, your codes will be emailed to you and you will be able to sign up using the link above.
+**Workshop packages have all been sold out**
+
+If you have already bought a workshop package you can still sign up for available workshops.
 
 Pricing for workshops is as follows:
 
@@ -119,7 +121,7 @@ All workshops will be BYOD (Bring Your Own Device). OSGeo Live USB sticks will b
 Instructors are strongly encouraged to develop material for attendees to take home with them, such as handouts, a workbook, CD-ROMs, etc.
 
 {:style="display:flex;justify-content:center;align-items:center;"}
-[View Workshops](../workshop-signup){:.btn}
+[Sign up for available Workshops](../workshop-signup){:.btn}
 
 <!--
 
