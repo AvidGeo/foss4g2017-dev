@@ -16,12 +16,10 @@ ads: false
 
 #### Pricing and Sign Up
 
+**<mark>Workshop packages have all been sold out.</mark>** If you have already bought a workshop package you can still sign up for available workshops.
+
 {:style="display:flex;justify-content:center;align-items:center;"}
 [Sign up for available Workshops](../workshop-signup){:.btn}
-
-**Workshop packages have all been sold out**
-
-If you have already bought a workshop package you can still sign up for available workshops.
 
 Pricing for workshops is as follows:
 
