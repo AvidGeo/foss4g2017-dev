@@ -7,7 +7,7 @@ description: "Free and Open Source Software for Geospatial"
 locale: en
 
 url: http://2017.foss4g.org
-baseurl: 
+baseurl:
 
 feed:
   path: atom.xml
@@ -19,10 +19,10 @@ kramdown:
   input: GFM
   hard_wrap: false
   math_engine: mathjax
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-coffeescript
   - jekyll-paginate
 
