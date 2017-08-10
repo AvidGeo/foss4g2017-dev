@@ -19,7 +19,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   math_engine: mathjax
-plugins:
+plugin_dir:
   - jekyll-sitemap
   - jekyll-gist
   # - jekyll-feed
