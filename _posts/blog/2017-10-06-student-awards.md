@@ -5,7 +5,7 @@ modified: null
 categories: program
 excerpt:
 tags: []
-date: 2017-06-05
+date: 2017-10-06
 author:
   name: Charlie Schweik
 image:
