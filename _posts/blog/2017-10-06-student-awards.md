@@ -21,17 +21,17 @@ This year’s winners are:
 **1st place:** Hyung-Gyu Ryoo and Soojin Kim, Department of Computer Science and Engineering, Pusan National University, South Korea, for:
 
   * Ryoo, Hyung-Gyu; Kim, Soojin; Kim, Joon-Seok; and Li, Ki-Joune (2017) “Development of an extension of GeoServer for handling 3D spatial data,” *Free and Open Source Software for Geospatial (FOSS4G) Conference Proceedings*: Vol. 17, Article 6.
-  Available at: [http://scholarworks.umass.edu/foss4g/vol17/iss1/6](http://scholarworks.umass.edu/foss4g/vol17/iss1/6)
+    * Available at: [http://scholarworks.umass.edu/foss4g/vol17/iss1/6](http://scholarworks.umass.edu/foss4g/vol17/iss1/6)
 
 **2nd place**: Mohammed Zia, Geomatics Engineering Department, Istanbul Technical University, Turkey, for:
 
   * Zia, Mohammed; Cakir, Ziyadin; and Seker, Dursun Zafer (2017) “A New Spatial Approach for Efficient Transformation of Equality - Generalized Traveling Salesman Problem (GTSP) to TSP,” *Free and Open Source Software for Geospatial (FOSS4G) Conference Proceedings*: Vol. 17, Article 5.
-  Available at: [http://scholarworks.umass.edu/foss4g/vol17/iss1/5](http://scholarworks.umass.edu/foss4g/vol17/iss1/5)
+    * Available at: [http://scholarworks.umass.edu/foss4g/vol17/iss1/5](http://scholarworks.umass.edu/foss4g/vol17/iss1/5)
 
 **3rd place**: Lorenzo Booth, School of Engineering, University of California, Merced, CA, USA, for   
 
   * Booth, Lorenzo; and Viers, Joshua H. “Implementation of a large-scale, interactive agricultural water balance model using R and GDAL.”
-    *(Note:  At the authors’ request, this was not included in the final conference proceedings.)*
+    * (Note:  At the authors’ request, this was not included in the final conference proceedings.)*
 
 In addition to the distinction of these commendations, the students received cash awards of $500, $300, and $200, respectively. We congratulate these scholars for their contributions.
 
