@@ -31,7 +31,7 @@ This year’s winners are:
 **3rd place**: Lorenzo Booth, School of Engineering, University of California, Merced, CA, USA, for   
 
   * Booth, Lorenzo; and Viers, Joshua H. “Implementation of a large-scale, interactive agricultural water balance model using R and GDAL.”
-    * (Note:  At the authors’ request, this was not included in the final conference proceedings.)*
+    * *(Note:  At the authors’ request, this was not included in the final conference proceedings.)*
 
 In addition to the distinction of these commendations, the students received cash awards of $500, $300, and $200, respectively. We congratulate these scholars for their contributions.
 
